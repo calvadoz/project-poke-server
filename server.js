@@ -23,7 +23,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/api/healthcheck", (req, res) => {
-  res.send("Service is healthy");
+  res.send("Service is healthy...");
 });
 
 app.get("/api/all-pokemons-gen1", async (req, res) => {
