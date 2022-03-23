@@ -11,7 +11,6 @@ const PORT = process.env.SERVER_PORT || 2000;
 
 app.use(express.json());
 app.use("/static", express.static("assets"));
-app.use(express.static("public"))
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 if (process.env.NODE_ENV === "development") {
@@ -53,5 +52,6 @@ function generateRandomNumber(totalPokemons) {
   return Math.ceil(Math.random() * totalPokemons);
 }
 
-app.listen(process.env.PORT || 3000, 
-	() => console.log("Poke Server is running..." ));
+app.listen(process.env.PORT || 3000, () =>
+  console.log("Poke Server is running...")
+);
