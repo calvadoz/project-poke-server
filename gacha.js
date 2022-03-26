@@ -59,10 +59,9 @@ const rollGacha = (times, gen) => {
 
   for (let i = 0; i < times; i++) {
     const roll = getRoll(0, 1, 5);
-    console.log(roll);
     const unitRarity = determineRarity(roll);
-    console.log(unitRarity);
     const unit = determineUnit(unitRarity);
+    unit.isShow = false;
     rollResult.push(unit);
   }
   return rollResult;
