@@ -1,13 +1,13 @@
 require("dotenv").config();
+const { v4: uuidv4 } = require("uuid");
 const axios = require("axios");
 const express = require("express");
 const app = express();
 const morgan = require("morgan");
 const cors = require("cors");
-const { uuid } = require("uuidv4");
-const POKEMON_API_URL = "https://pokeapi.co/api/v2/pokemon";
-
-const PORT = process.env.SERVER_PORT || 2000;
+const rollGacha = require("./gacha");
+const pokemonApiUrl = process.env.POKEMON_API_URL;
+const totalPokemons = process.env.TOTAL_POKEMONS || 151; // Gen-1 151, Gen-2 152-251, Gen-3 252-386
 
 app.use(express.json());
 app.use("/static", express.static("assets"));
@@ -27,29 +27,55 @@ app.get("/api/healthcheck", (req, res) => {
 });
 
 app.get("/api/all-pokemons-gen1", async (req, res) => {
-  const api_url = POKEMON_API_URL + "?limit=151";
-  const pokemons = await axios.get(api_url);
-  const results = pokemons.data.results;
-  res.send(results);
+  const gachaResults = rollGacha(10, "GEN-1");
+  res.send(gachaResults);
 });
 
-app.get("/api/catchem-all-10", async (req, res) => {
-  const api_url = POKEMON_API_URL + "?limit=151";
-  const pokemons = await axios.get(api_url);
-  const results = pokemons.data.results;
-  const randomPokemons = [];
-
-  for (let i = 0; i < 10; i++) {
-    const random = generateRandomNumber(151);
-    const newResult = { ...results[random] };
-    newResult.id = uuid();
-    randomPokemons.push(newResult);
-  }
-  res.send(randomPokemons);
+app.get("/api/all-pokemons-gen2", async (req, res) => {
+  const gachaResults = rollGacha(10, "GEN-2");
+  res.send(gachaResults);
 });
+
+app.get("/api/all-pokemons-gen3", async (req, res) => {
+  const gachaResults = rollGacha(10, "GEN-3");
+  res.send(gachaResults);
+});
+
+app.get("/api/catchem-all-multi", async (req, res) => {
+  const gachaResults = rollGacha(10, "ALL");
+  res.send(gachaResults);
+});
+
+app.get("/api/catchem-all-single", async (req, res) => {
+  res.send(rollGacha(1));
+});
+
+// app.get("/api/catchem-all-test", async (req, res) => {
+//   const api_url = pokemonApiUrl + "?limit=385";
+//   const pokemons = await axios.get(api_url);
+//   const results = pokemons.data.results;
+//   results.forEach((x, index) => {
+//     x.id = uuidv4();
+//     x.pokemonId = index + 1;
+//     x.rarity = 'R';
+//   });
+
+//   res.send(results);
+// });
 
 function generateRandomNumber(totalPokemons) {
   return Math.ceil(Math.random() * totalPokemons);
+}
+
+function randomizePokemons(totalPokemons) {
+  const randomPokemons = [];
+  for (let i = 0; i < 10; i++) {
+    const random = generateRandomNumber(totalPokemons.length);
+    const newResult = { ...totalPokemons[random] };
+    newResult.id = uuidv4();
+    randomPokemons.push(newResult);
+  }
+  return randomPokemons;
 }
 
 app.listen(process.env.PORT || 3000, () =>

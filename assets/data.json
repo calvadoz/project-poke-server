@@ -1,0 +1,2697 @@
+[
+  {
+    "name": "bulbasaur",
+    "url": "https://pokeapi.co/api/v2/pokemon/1/",
+    "id": "66c62e9d-f508-4979-92e6-c61d5e7f4e51",
+    "pokemonId": 1,
+    "rarity": "R"
+  },
+  {
+    "name": "ivysaur",
+    "url": "https://pokeapi.co/api/v2/pokemon/2/",
+    "id": "15d7d246-c089-4b4e-8333-82db7cac04e7",
+    "pokemonId": 2,
+    "rarity": "SR"
+  },
+  {
+    "name": "venusaur",
+    "url": "https://pokeapi.co/api/v2/pokemon/3/",
+    "id": "3133b4eb-2d89-4249-a450-c674e6ff7926",
+    "pokemonId": 3,
+    "rarity": "SSR"
+  },
+  {
+    "name": "charmander",
+    "url": "https://pokeapi.co/api/v2/pokemon/4/",
+    "id": "ffc63335-3d38-44ab-8543-acf069cd2a70",
+    "pokemonId": 4,
+    "rarity": "R"
+  },
+  {
+    "name": "charmeleon",
+    "url": "https://pokeapi.co/api/v2/pokemon/5/",
+    "id": "c7dbeb81-a1a3-499a-a656-fff5150fe75d",
+    "pokemonId": 5,
+    "rarity": "SR"
+  },
+  {
+    "name": "charizard",
+    "url": "https://pokeapi.co/api/v2/pokemon/6/",
+    "id": "570962ba-51a0-40b1-b775-c89615d9689b",
+    "pokemonId": 6,
+    "rarity": "SSR"
+  },
+  {
+    "name": "squirtle",
+    "url": "https://pokeapi.co/api/v2/pokemon/7/",
+    "id": "787865de-9c31-4904-8534-4e0a28c5c872",
+    "pokemonId": 7,
+    "rarity": "R"
+  },
+  {
+    "name": "wartortle",
+    "url": "https://pokeapi.co/api/v2/pokemon/8/",
+    "id": "4ef7ccfc-bdeb-45d6-8c3d-63fcb3049280",
+    "pokemonId": 8,
+    "rarity": "SR"
+  },
+  {
+    "name": "blastoise",
+    "url": "https://pokeapi.co/api/v2/pokemon/9/",
+    "id": "b7d988a6-0705-45d1-8656-0445369ab7e0",
+    "pokemonId": 9,
+    "rarity": "SSR"
+  },
+  {
+    "name": "caterpie",
+    "url": "https://pokeapi.co/api/v2/pokemon/10/",
+    "id": "4cde2501-cece-4c5b-984f-ed1f7a0efc5b",
+    "pokemonId": 10,
+    "rarity": "R"
+  },
+  {
+    "name": "metapod",
+    "url": "https://pokeapi.co/api/v2/pokemon/11/",
+    "id": "c6ca1f5a-1f47-4652-bfa3-4388bcf524e8",
+    "pokemonId": 11,
+    "rarity": "R"
+  },
+  {
+    "name": "butterfree",
+    "url": "https://pokeapi.co/api/v2/pokemon/12/",
+    "id": "779e4baf-c078-48ac-bf26-844d716f595e",
+    "pokemonId": 12,
+    "rarity": "SR"
+  },
+  {
+    "name": "weedle",
+    "url": "https://pokeapi.co/api/v2/pokemon/13/",
+    "id": "e3f8681f-1fdb-4d5b-a521-b02120ae9418",
+    "pokemonId": 13,
+    "rarity": "R"
+  },
+  {
+    "name": "kakuna",
+    "url": "https://pokeapi.co/api/v2/pokemon/14/",
+    "id": "41de1103-1bbe-436a-ac24-12fd76e26694",
+    "pokemonId": 14,
+    "rarity": "R"
+  },
+  {
+    "name": "beedrill",
+    "url": "https://pokeapi.co/api/v2/pokemon/15/",
+    "id": "b270c03a-a14b-4d71-8acc-c4af848546fe",
+    "pokemonId": 15,
+    "rarity": "SR"
+  },
+  {
+    "name": "pidgey",
+    "url": "https://pokeapi.co/api/v2/pokemon/16/",
+    "id": "81a37f01-9ad0-43dc-ac30-45cb3debb259",
+    "pokemonId": 16,
+    "rarity": "R"
+  },
+  {
+    "name": "pidgeotto",
+    "url": "https://pokeapi.co/api/v2/pokemon/17/",
+    "id": "fa2fc11e-554d-4b28-bb7b-bcfa1e04ce11",
+    "pokemonId": 17,
+    "rarity": "SR"
+  },
+  {
+    "name": "pidgeot",
+    "url": "https://pokeapi.co/api/v2/pokemon/18/",
+    "id": "b8dafc40-f2bb-4486-9286-8dafb568d667",
+    "pokemonId": 18,
+    "rarity": "SSR"
+  },
+  {
+    "name": "rattata",
+    "url": "https://pokeapi.co/api/v2/pokemon/19/",
+    "id": "9b7ef76f-d94f-4c3e-9178-60bae7e3574b",
+    "pokemonId": 19,
+    "rarity": "R"
+  },
+  {
+    "name": "raticate",
+    "url": "https://pokeapi.co/api/v2/pokemon/20/",
+    "id": "880017cf-6a61-417f-ac5f-9419ec43b492",
+    "pokemonId": 20,
+    "rarity": "SR"
+  },
+  {
+    "name": "spearow",
+    "url": "https://pokeapi.co/api/v2/pokemon/21/",
+    "id": "4c0be694-0ce9-4aca-b23b-18147e1c5725",
+    "pokemonId": 21,
+    "rarity": "R"
+  },
+  {
+    "name": "fearow",
+    "url": "https://pokeapi.co/api/v2/pokemon/22/",
+    "id": "e9076381-63ad-4b7c-b8a8-faaa389f3afb",
+    "pokemonId": 22,
+    "rarity": "SR"
+  },
+  {
+    "name": "ekans",
+    "url": "https://pokeapi.co/api/v2/pokemon/23/",
+    "id": "44ec74cd-3dbf-45da-8f64-3840767dd445",
+    "pokemonId": 23,
+    "rarity": "R"
+  },
+  {
+    "name": "arbok",
+    "url": "https://pokeapi.co/api/v2/pokemon/24/",
+    "id": "beb8bbd8-8687-4ede-a28e-830377ee53e5",
+    "pokemonId": 24,
+    "rarity": "SR"
+  },
+  {
+    "name": "pikachu",
+    "url": "https://pokeapi.co/api/v2/pokemon/25/",
+    "id": "e71f29f1-043b-4741-993b-0f4ae310e9c6",
+    "pokemonId": 25,
+    "rarity": "R"
+  },
+  {
+    "name": "raichu",
+    "url": "https://pokeapi.co/api/v2/pokemon/26/",
+    "id": "84a3491d-1e70-472e-a2b2-97d79303db7f",
+    "pokemonId": 26,
+    "rarity": "SR"
+  },
+  {
+    "name": "sandshrew",
+    "url": "https://pokeapi.co/api/v2/pokemon/27/",
+    "id": "f0ab662c-9b1e-4985-b36e-55ddec7c93d2",
+    "pokemonId": 27,
+    "rarity": "R"
+  },
+  {
+    "name": "sandslash",
+    "url": "https://pokeapi.co/api/v2/pokemon/28/",
+    "id": "6473a693-b9eb-4d9a-a63b-de7cf11581a4",
+    "pokemonId": 28,
+    "rarity": "SR"
+  },
+  {
+    "name": "nidoran-f",
+    "url": "https://pokeapi.co/api/v2/pokemon/29/",
+    "id": "972a4232-213e-4539-9ce6-18edf62d8ad1",
+    "pokemonId": 29,
+    "rarity": "R"
+  },
+  {
+    "name": "nidorina",
+    "url": "https://pokeapi.co/api/v2/pokemon/30/",
+    "id": "131b098b-f9f0-4fbe-acc5-84f5074a722e",
+    "pokemonId": 30,
+    "rarity": "SR"
+  },
+  {
+    "name": "nidoqueen",
+    "url": "https://pokeapi.co/api/v2/pokemon/31/",
+    "id": "d844fddf-0834-44af-8239-f20624ec7205",
+    "pokemonId": 31,
+    "rarity": "SSR"
+  },
+  {
+    "name": "nidoran-m",
+    "url": "https://pokeapi.co/api/v2/pokemon/32/",
+    "id": "4c089ba6-42ff-4f0a-adcd-d5d2b5f01fd6",
+    "pokemonId": 32,
+    "rarity": "R"
+  },
+  {
+    "name": "nidorino",
+    "url": "https://pokeapi.co/api/v2/pokemon/33/",
+    "id": "2ab9dcd8-2fd5-4426-abda-6f7b9fb8ea4e",
+    "pokemonId": 33,
+    "rarity": "SR"
+  },
+  {
+    "name": "nidoking",
+    "url": "https://pokeapi.co/api/v2/pokemon/34/",
+    "id": "ab11be24-c1ed-4ea6-b129-a0de6b396496",
+    "pokemonId": 34,
+    "rarity": "SSR"
+  },
+  {
+    "name": "clefairy",
+    "url": "https://pokeapi.co/api/v2/pokemon/35/",
+    "id": "3b9761b7-f22d-47d8-8f12-07497b14644c",
+    "pokemonId": 35,
+    "rarity": "R"
+  },
+  {
+    "name": "clefable",
+    "url": "https://pokeapi.co/api/v2/pokemon/36/",
+    "id": "db2c56e8-5726-4e2d-964f-ef6ef0ba7e2f",
+    "pokemonId": 36,
+    "rarity": "SR"
+  },
+  {
+    "name": "vulpix",
+    "url": "https://pokeapi.co/api/v2/pokemon/37/",
+    "id": "3d4c1a09-b585-4ce9-ba9a-b29034210651",
+    "pokemonId": 37,
+    "rarity": "R"
+  },
+  {
+    "name": "ninetales",
+    "url": "https://pokeapi.co/api/v2/pokemon/38/",
+    "id": "4c0a43c4-a70e-4054-a081-9172e2a863f8",
+    "pokemonId": 38,
+    "rarity": "SR"
+  },
+  {
+    "name": "jigglypuff",
+    "url": "https://pokeapi.co/api/v2/pokemon/39/",
+    "id": "7ea89d18-f1ae-40cc-9ba9-595d8ba910d2",
+    "pokemonId": 39,
+    "rarity": "R"
+  },
+  {
+    "name": "wigglytuff",
+    "url": "https://pokeapi.co/api/v2/pokemon/40/",
+    "id": "b39adde2-ecbc-4df1-aab3-93e14d21be49",
+    "pokemonId": 40,
+    "rarity": "SR"
+  },
+  {
+    "name": "zubat",
+    "url": "https://pokeapi.co/api/v2/pokemon/41/",
+    "id": "76c7ce2a-27c1-4429-8257-ebad83c5c6ff",
+    "pokemonId": 41,
+    "rarity": "R"
+  },
+  {
+    "name": "golbat",
+    "url": "https://pokeapi.co/api/v2/pokemon/42/",
+    "id": "c09e530e-45da-4731-8cd2-cdec27451b9c",
+    "pokemonId": 42,
+    "rarity": "SR"
+  },
+  {
+    "name": "oddish",
+    "url": "https://pokeapi.co/api/v2/pokemon/43/",
+    "id": "7700046e-4ec5-4cec-b8b9-6eba6cd3b531",
+    "pokemonId": 43,
+    "rarity": "R"
+  },
+  {
+    "name": "gloom",
+    "url": "https://pokeapi.co/api/v2/pokemon/44/",
+    "id": "2f8cc6de-93fc-4a05-a2d7-cfb98c58f37f",
+    "pokemonId": 44,
+    "rarity": "SR"
+  },
+  {
+    "name": "vileplume",
+    "url": "https://pokeapi.co/api/v2/pokemon/45/",
+    "id": "aae704a8-0ecd-40d8-9bcb-9a935b1cea88",
+    "pokemonId": 45,
+    "rarity": "SSR"
+  },
+  {
+    "name": "paras",
+    "url": "https://pokeapi.co/api/v2/pokemon/46/",
+    "id": "af60bf62-04e6-4ca6-9ae6-5a8cd68b3289",
+    "pokemonId": 46,
+    "rarity": "R"
+  },
+  {
+    "name": "parasect",
+    "url": "https://pokeapi.co/api/v2/pokemon/47/",
+    "id": "d97c3062-4ba0-4b01-a2c7-763ee4e17598",
+    "pokemonId": 47,
+    "rarity": "SR"
+  },
+  {
+    "name": "venonat",
+    "url": "https://pokeapi.co/api/v2/pokemon/48/",
+    "id": "d060fe35-ca81-43e6-8e06-6df9b2480029",
+    "pokemonId": 48,
+    "rarity": "R"
+  },
+  {
+    "name": "venomoth",
+    "url": "https://pokeapi.co/api/v2/pokemon/49/",
+    "id": "aecefb45-f310-4ad5-b151-a1015f37384e",
+    "pokemonId": 49,
+    "rarity": "SR"
+  },
+  {
+    "name": "diglett",
+    "url": "https://pokeapi.co/api/v2/pokemon/50/",
+    "id": "a053c1f0-b53f-41e2-98aa-73acb24d5c2e",
+    "pokemonId": 50,
+    "rarity": "R"
+  },
+  {
+    "name": "dugtrio",
+    "url": "https://pokeapi.co/api/v2/pokemon/51/",
+    "id": "24d84720-e0fd-4b83-a1bf-cc978490987b",
+    "pokemonId": 51,
+    "rarity": "SR"
+  },
+  {
+    "name": "meowth",
+    "url": "https://pokeapi.co/api/v2/pokemon/52/",
+    "id": "edd44b67-1e3d-4ddf-9bd9-be9316312e8a",
+    "pokemonId": 52,
+    "rarity": "R"
+  },
+  {
+    "name": "persian",
+    "url": "https://pokeapi.co/api/v2/pokemon/53/",
+    "id": "3d1f25d3-d059-48a9-9cf0-81ffec171827",
+    "pokemonId": 53,
+    "rarity": "SR"
+  },
+  {
+    "name": "psyduck",
+    "url": "https://pokeapi.co/api/v2/pokemon/54/",
+    "id": "aeebc135-c97e-4ca8-9328-ac7b13877b8a",
+    "pokemonId": 54,
+    "rarity": "R"
+  },
+  {
+    "name": "golduck",
+    "url": "https://pokeapi.co/api/v2/pokemon/55/",
+    "id": "f5028167-016e-4eb7-a41a-6643edd51719",
+    "pokemonId": 55,
+    "rarity": "SR"
+  },
+  {
+    "name": "mankey",
+    "url": "https://pokeapi.co/api/v2/pokemon/56/",
+    "id": "59931edd-5440-4dd0-a579-13dc6ee961b3",
+    "pokemonId": 56,
+    "rarity": "R"
+  },
+  {
+    "name": "primeape",
+    "url": "https://pokeapi.co/api/v2/pokemon/57/",
+    "id": "e38f024d-cae6-475d-a8ee-8f375039ed62",
+    "pokemonId": 57,
+    "rarity": "SR"
+  },
+  {
+    "name": "growlithe",
+    "url": "https://pokeapi.co/api/v2/pokemon/58/",
+    "id": "4d5fc5bb-d2e6-4482-a5d5-2110e9d060f4",
+    "pokemonId": 58,
+    "rarity": "R"
+  },
+  {
+    "name": "arcanine",
+    "url": "https://pokeapi.co/api/v2/pokemon/59/",
+    "id": "ef4b5d90-9b69-422c-9253-8077e7ecfb83",
+    "pokemonId": 59,
+    "rarity": "SSR"
+  },
+  {
+    "name": "poliwag",
+    "url": "https://pokeapi.co/api/v2/pokemon/60/",
+    "id": "d2eb7b75-8047-4d9c-a423-dd58b08634eb",
+    "pokemonId": 60,
+    "rarity": "R"
+  },
+  {
+    "name": "poliwhirl",
+    "url": "https://pokeapi.co/api/v2/pokemon/61/",
+    "id": "c5313009-cb98-463f-bd41-763ef33e377e",
+    "pokemonId": 61,
+    "rarity": "SR"
+  },
+  {
+    "name": "poliwrath",
+    "url": "https://pokeapi.co/api/v2/pokemon/62/",
+    "id": "85525358-d5e5-4c3e-9e13-e00aeda19da8",
+    "pokemonId": 62,
+    "rarity": "SSR"
+  },
+  {
+    "name": "abra",
+    "url": "https://pokeapi.co/api/v2/pokemon/63/",
+    "id": "48635624-d336-452e-aa90-b28ce2862693",
+    "pokemonId": 63,
+    "rarity": "R"
+  },
+  {
+    "name": "kadabra",
+    "url": "https://pokeapi.co/api/v2/pokemon/64/",
+    "id": "a2c513ff-528e-4214-9e80-0d122730a446",
+    "pokemonId": 64,
+    "rarity": "SR"
+  },
+  {
+    "name": "alakazam",
+    "url": "https://pokeapi.co/api/v2/pokemon/65/",
+    "id": "df8efc5f-f374-4e41-867c-7f126ee8813e",
+    "pokemonId": 65,
+    "rarity": "SSR"
+  },
+  {
+    "name": "machop",
+    "url": "https://pokeapi.co/api/v2/pokemon/66/",
+    "id": "8aaff0e0-4578-453f-a875-8df3c8be5af9",
+    "pokemonId": 66,
+    "rarity": "R"
+  },
+  {
+    "name": "machoke",
+    "url": "https://pokeapi.co/api/v2/pokemon/67/",
+    "id": "973cbcfc-13bd-4c76-9f9a-98fe6c58aa3c",
+    "pokemonId": 67,
+    "rarity": "SR"
+  },
+  {
+    "name": "machamp",
+    "url": "https://pokeapi.co/api/v2/pokemon/68/",
+    "id": "9348f11d-d0b9-4a44-b49a-8505a67bd6d1",
+    "pokemonId": 68,
+    "rarity": "SSR"
+  },
+  {
+    "name": "bellsprout",
+    "url": "https://pokeapi.co/api/v2/pokemon/69/",
+    "id": "434cc06a-425a-4e43-b6bb-2eaad5b4b1e8",
+    "pokemonId": 69,
+    "rarity": "R"
+  },
+  {
+    "name": "weepinbell",
+    "url": "https://pokeapi.co/api/v2/pokemon/70/",
+    "id": "a0a79e83-1bf2-4d5e-a1ec-5d4b303e11ac",
+    "pokemonId": 70,
+    "rarity": "SR"
+  },
+  {
+    "name": "victreebel",
+    "url": "https://pokeapi.co/api/v2/pokemon/71/",
+    "id": "05646d12-0168-4ed1-8298-1c85a965a5bd",
+    "pokemonId": 71,
+    "rarity": "SSR"
+  },
+  {
+    "name": "tentacool",
+    "url": "https://pokeapi.co/api/v2/pokemon/72/",
+    "id": "d1297a09-703c-4289-889c-a884e94a7bb4",
+    "pokemonId": 72,
+    "rarity": "R"
+  },
+  {
+    "name": "tentacruel",
+    "url": "https://pokeapi.co/api/v2/pokemon/73/",
+    "id": "9d4fea3e-722e-4e5b-a078-828b9435aff6",
+    "pokemonId": 73,
+    "rarity": "SR"
+  },
+  {
+    "name": "geodude",
+    "url": "https://pokeapi.co/api/v2/pokemon/74/",
+    "id": "12668e2c-7a9c-4524-aace-71783b9023ce",
+    "pokemonId": 74,
+    "rarity": "R"
+  },
+  {
+    "name": "graveler",
+    "url": "https://pokeapi.co/api/v2/pokemon/75/",
+    "id": "5b4a86b9-23c3-46fd-8882-9929d0535d99",
+    "pokemonId": 75,
+    "rarity": "SR"
+  },
+  {
+    "name": "golem",
+    "url": "https://pokeapi.co/api/v2/pokemon/76/",
+    "id": "929680e4-b605-4adc-848b-16d798df84f4",
+    "pokemonId": 76,
+    "rarity": "SSR"
+  },
+  {
+    "name": "ponyta",
+    "url": "https://pokeapi.co/api/v2/pokemon/77/",
+    "id": "c4ba7f0f-db63-4499-ba9b-3ac1390e3c89",
+    "pokemonId": 77,
+    "rarity": "R"
+  },
+  {
+    "name": "rapidash",
+    "url": "https://pokeapi.co/api/v2/pokemon/78/",
+    "id": "88111b5a-0862-48da-9846-f78aa0d1207c",
+    "pokemonId": 78,
+    "rarity": "SR"
+  },
+  {
+    "name": "slowpoke",
+    "url": "https://pokeapi.co/api/v2/pokemon/79/",
+    "id": "ee4a028e-0d29-49ab-846c-cfa7e40c943a",
+    "pokemonId": 79,
+    "rarity": "R"
+  },
+  {
+    "name": "slowbro",
+    "url": "https://pokeapi.co/api/v2/pokemon/80/",
+    "id": "6e9e0683-5ecc-4e9a-9c15-51ea24953058",
+    "pokemonId": 80,
+    "rarity": "SR"
+  },
+  {
+    "name": "magnemite",
+    "url": "https://pokeapi.co/api/v2/pokemon/81/",
+    "id": "2ada9fee-fab8-475c-9a8c-850871e4ae4f",
+    "pokemonId": 81,
+    "rarity": "R"
+  },
+  {
+    "name": "magneton",
+    "url": "https://pokeapi.co/api/v2/pokemon/82/",
+    "id": "54e6aaf8-c5f4-4823-b985-9b4873000ff6",
+    "pokemonId": 82,
+    "rarity": "SR"
+  },
+  {
+    "name": "farfetchd",
+    "url": "https://pokeapi.co/api/v2/pokemon/83/",
+    "id": "9ca8637c-1b4e-48e3-b7ab-1b6a68afd303",
+    "pokemonId": 83,
+    "rarity": "R"
+  },
+  {
+    "name": "doduo",
+    "url": "https://pokeapi.co/api/v2/pokemon/84/",
+    "id": "d91a7cdb-8f4e-4b99-9a2d-f2866c01e48a",
+    "pokemonId": 84,
+    "rarity": "R"
+  },
+  {
+    "name": "dodrio",
+    "url": "https://pokeapi.co/api/v2/pokemon/85/",
+    "id": "f168bfa4-1da1-4485-a50a-4c136a5a31d9",
+    "pokemonId": 85,
+    "rarity": "SR"
+  },
+  {
+    "name": "seel",
+    "url": "https://pokeapi.co/api/v2/pokemon/86/",
+    "id": "596c2564-dc24-4914-967e-f8746cad69ba",
+    "pokemonId": 86,
+    "rarity": "R"
+  },
+  {
+    "name": "dewgong",
+    "url": "https://pokeapi.co/api/v2/pokemon/87/",
+    "id": "1aac4d6b-e133-468d-8f4a-4625a160404e",
+    "pokemonId": 87,
+    "rarity": "SR"
+  },
+  {
+    "name": "grimer",
+    "url": "https://pokeapi.co/api/v2/pokemon/88/",
+    "id": "56b84187-8629-4dc1-8869-be79f22b414d",
+    "pokemonId": 88,
+    "rarity": "R"
+  },
+  {
+    "name": "muk",
+    "url": "https://pokeapi.co/api/v2/pokemon/89/",
+    "id": "b6f9ffd9-315c-48c0-bb8c-0168a49da6f8",
+    "pokemonId": 89,
+    "rarity": "SR"
+  },
+  {
+    "name": "shellder",
+    "url": "https://pokeapi.co/api/v2/pokemon/90/",
+    "id": "f3227b11-c781-43c5-9e81-47f06230a9c0",
+    "pokemonId": 90,
+    "rarity": "R"
+  },
+  {
+    "name": "cloyster",
+    "url": "https://pokeapi.co/api/v2/pokemon/91/",
+    "id": "7ec403b6-1b42-42bb-8651-02c2223b3aef",
+    "pokemonId": 91,
+    "rarity": "SR"
+  },
+  {
+    "name": "gastly",
+    "url": "https://pokeapi.co/api/v2/pokemon/92/",
+    "id": "fa58d102-48e9-4307-9639-cfd5841437d2",
+    "pokemonId": 92,
+    "rarity": "R"
+  },
+  {
+    "name": "haunter",
+    "url": "https://pokeapi.co/api/v2/pokemon/93/",
+    "id": "6d0289b9-1566-4c11-ae82-f5e3e7c1d8ce",
+    "pokemonId": 93,
+    "rarity": "SR"
+  },
+  {
+    "name": "gengar",
+    "url": "https://pokeapi.co/api/v2/pokemon/94/",
+    "id": "1dcf9225-fb19-4a80-ab2e-3c1660273906",
+    "pokemonId": 94,
+    "rarity": "SSR"
+  },
+  {
+    "name": "onix",
+    "url": "https://pokeapi.co/api/v2/pokemon/95/",
+    "id": "1ba5aaac-2159-4ef3-99d7-75e7f2ced401",
+    "pokemonId": 95,
+    "rarity": "SR"
+  },
+  {
+    "name": "drowzee",
+    "url": "https://pokeapi.co/api/v2/pokemon/96/",
+    "id": "2c0e8a6a-7096-46d3-9d39-8b277262169d",
+    "pokemonId": 96,
+    "rarity": "R"
+  },
+  {
+    "name": "hypno",
+    "url": "https://pokeapi.co/api/v2/pokemon/97/",
+    "id": "510c75eb-80b7-4dc1-9160-63eaae947e4c",
+    "pokemonId": 97,
+    "rarity": "SR"
+  },
+  {
+    "name": "krabby",
+    "url": "https://pokeapi.co/api/v2/pokemon/98/",
+    "id": "08b88d51-eb2d-4f1a-8f3e-c677afc92cb9",
+    "pokemonId": 98,
+    "rarity": "R"
+  },
+  {
+    "name": "kingler",
+    "url": "https://pokeapi.co/api/v2/pokemon/99/",
+    "id": "1b4e99ac-9f2d-4d72-8554-de7cd74f5d49",
+    "pokemonId": 99,
+    "rarity": "SR"
+  },
+  {
+    "name": "voltorb",
+    "url": "https://pokeapi.co/api/v2/pokemon/100/",
+    "id": "2e2c4209-15c3-42f7-8fc1-2beba513cbd4",
+    "pokemonId": 100,
+    "rarity": "R"
+  },
+  {
+    "name": "electrode",
+    "url": "https://pokeapi.co/api/v2/pokemon/101/",
+    "id": "bef5004b-f3e9-469f-b15b-1f2c0c3a2d71",
+    "pokemonId": 101,
+    "rarity": "SR"
+  },
+  {
+    "name": "exeggcute",
+    "url": "https://pokeapi.co/api/v2/pokemon/102/",
+    "id": "459bf814-083a-45c8-8f67-3f5a6c6276c2",
+    "pokemonId": 102,
+    "rarity": "R"
+  },
+  {
+    "name": "exeggutor",
+    "url": "https://pokeapi.co/api/v2/pokemon/103/",
+    "id": "700a62c7-466c-4a93-85ef-3d4355a10c78",
+    "pokemonId": 103,
+    "rarity": "SR"
+  },
+  {
+    "name": "cubone",
+    "url": "https://pokeapi.co/api/v2/pokemon/104/",
+    "id": "ad394925-5e1a-4f5d-a128-9b9c4f8bd3af",
+    "pokemonId": 104,
+    "rarity": "R"
+  },
+  {
+    "name": "marowak",
+    "url": "https://pokeapi.co/api/v2/pokemon/105/",
+    "id": "1a52309f-f9be-451f-b595-a67d7a0d44c7",
+    "pokemonId": 105,
+    "rarity": "SR"
+  },
+  {
+    "name": "hitmonlee",
+    "url": "https://pokeapi.co/api/v2/pokemon/106/",
+    "id": "cf3eadb0-8a6c-4b60-9981-ac1480f15679",
+    "pokemonId": 106,
+    "rarity": "SR"
+  },
+  {
+    "name": "hitmonchan",
+    "url": "https://pokeapi.co/api/v2/pokemon/107/",
+    "id": "cdbb54a3-763b-404f-8882-b0d08b09a1e6",
+    "pokemonId": 107,
+    "rarity": "SR"
+  },
+  {
+    "name": "lickitung",
+    "url": "https://pokeapi.co/api/v2/pokemon/108/",
+    "id": "55035c99-f615-4bbc-a1d8-0e17faa04b39",
+    "pokemonId": 108,
+    "rarity": "SR"
+  },
+  {
+    "name": "koffing",
+    "url": "https://pokeapi.co/api/v2/pokemon/109/",
+    "id": "c2045487-3e72-4b5c-a286-14942a17b4b6",
+    "pokemonId": 109,
+    "rarity": "R"
+  },
+  {
+    "name": "weezing",
+    "url": "https://pokeapi.co/api/v2/pokemon/110/",
+    "id": "a170ab73-51ba-467d-b0f5-e3d830a96bdd",
+    "pokemonId": 110,
+    "rarity": "SR"
+  },
+  {
+    "name": "rhyhorn",
+    "url": "https://pokeapi.co/api/v2/pokemon/111/",
+    "id": "d0b218e7-6e71-4c27-bf0e-eb13a86e3782",
+    "pokemonId": 111,
+    "rarity": "R"
+  },
+  {
+    "name": "rhydon",
+    "url": "https://pokeapi.co/api/v2/pokemon/112/",
+    "id": "1a9d670d-90f3-418d-aed8-39b857c08f83",
+    "pokemonId": 112,
+    "rarity": "SSR"
+  },
+  {
+    "name": "chansey",
+    "url": "https://pokeapi.co/api/v2/pokemon/113/",
+    "id": "ee9b223b-7569-4460-a23e-3b391e7d40cb",
+    "pokemonId": 113,
+    "rarity": "SR"
+  },
+  {
+    "name": "tangela",
+    "url": "https://pokeapi.co/api/v2/pokemon/114/",
+    "id": "9ca40a69-6358-4fbe-ad20-a7eb313d92e0",
+    "pokemonId": 114,
+    "rarity": "SR"
+  },
+  {
+    "name": "kangaskhan",
+    "url": "https://pokeapi.co/api/v2/pokemon/115/",
+    "id": "93dfe1f7-84dd-409e-8d4f-75014abdb668",
+    "pokemonId": 115,
+    "rarity": "SR"
+  },
+  {
+    "name": "horsea",
+    "url": "https://pokeapi.co/api/v2/pokemon/116/",
+    "id": "4a78df9f-feaf-46bf-b9c9-645219c9a551",
+    "pokemonId": 116,
+    "rarity": "R"
+  },
+  {
+    "name": "seadra",
+    "url": "https://pokeapi.co/api/v2/pokemon/117/",
+    "id": "2cdf3cd6-95f5-4dc9-85e8-68400f6ccc10",
+    "pokemonId": 117,
+    "rarity": "SR"
+  },
+  {
+    "name": "goldeen",
+    "url": "https://pokeapi.co/api/v2/pokemon/118/",
+    "id": "75a9de17-2318-42fb-8d64-9dda488ed5b7",
+    "pokemonId": 118,
+    "rarity": "R"
+  },
+  {
+    "name": "seaking",
+    "url": "https://pokeapi.co/api/v2/pokemon/119/",
+    "id": "31361255-c248-4ccc-aa54-27a73b30c228",
+    "pokemonId": 119,
+    "rarity": "SR"
+  },
+  {
+    "name": "staryu",
+    "url": "https://pokeapi.co/api/v2/pokemon/120/",
+    "id": "1012f45c-018a-4316-81c3-e90ab092952e",
+    "pokemonId": 120,
+    "rarity": "R"
+  },
+  {
+    "name": "starmie",
+    "url": "https://pokeapi.co/api/v2/pokemon/121/",
+    "id": "2ebde8a0-cb0c-4a55-a291-1bab1d9fbd39",
+    "pokemonId": 121,
+    "rarity": "SR"
+  },
+  {
+    "name": "mr-mime",
+    "url": "https://pokeapi.co/api/v2/pokemon/122/",
+    "id": "b5db7351-b37d-4e49-97c9-1db03f729cf1",
+    "pokemonId": 122,
+    "rarity": "SR"
+  },
+  {
+    "name": "scyther",
+    "url": "https://pokeapi.co/api/v2/pokemon/123/",
+    "id": "474dc495-51d8-44da-80bf-573ef86aa20f",
+    "pokemonId": 123,
+    "rarity": "SR"
+  },
+  {
+    "name": "jynx",
+    "url": "https://pokeapi.co/api/v2/pokemon/124/",
+    "id": "6acbaa0b-976a-4eeb-9959-9cfa615ed15b",
+    "pokemonId": 124,
+    "rarity": "SR"
+  },
+  {
+    "name": "electabuzz",
+    "url": "https://pokeapi.co/api/v2/pokemon/125/",
+    "id": "3bcc5866-3ab3-4ee1-ab0b-1c9a16ce6f35",
+    "pokemonId": 125,
+    "rarity": "SR"
+  },
+  {
+    "name": "magmar",
+    "url": "https://pokeapi.co/api/v2/pokemon/126/",
+    "id": "f295dc8c-f202-4ff6-b89d-81f0b33c41ab",
+    "pokemonId": 126,
+    "rarity": "SR"
+  },
+  {
+    "name": "pinsir",
+    "url": "https://pokeapi.co/api/v2/pokemon/127/",
+    "id": "f8f35017-640f-47f2-be35-aa098d7037ae",
+    "pokemonId": 127,
+    "rarity": "SR"
+  },
+  {
+    "name": "tauros",
+    "url": "https://pokeapi.co/api/v2/pokemon/128/",
+    "id": "6efc7f7d-4508-41a4-aed1-14176faf802d",
+    "pokemonId": 128,
+    "rarity": "SR"
+  },
+  {
+    "name": "magikarp",
+    "url": "https://pokeapi.co/api/v2/pokemon/129/",
+    "id": "0d887231-5dc0-4b9e-85d1-af2ee623f9a5",
+    "pokemonId": 129,
+    "rarity": "R"
+  },
+  {
+    "name": "gyarados",
+    "url": "https://pokeapi.co/api/v2/pokemon/130/",
+    "id": "d604db08-3b2b-456a-8e33-dc8f02f5548c",
+    "pokemonId": 130,
+    "rarity": "SSR"
+  },
+  {
+    "name": "lapras",
+    "url": "https://pokeapi.co/api/v2/pokemon/131/",
+    "id": "70cad58a-444b-4727-bc4f-c4305dd6dde7",
+    "pokemonId": 131,
+    "rarity": "SR"
+  },
+  {
+    "name": "ditto",
+    "url": "https://pokeapi.co/api/v2/pokemon/132/",
+    "id": "842602c1-818b-448f-96f1-db3d0fa85057",
+    "pokemonId": 132,
+    "rarity": "SR"
+  },
+  {
+    "name": "eevee",
+    "url": "https://pokeapi.co/api/v2/pokemon/133/",
+    "id": "2e07e46c-1a2f-4e7d-9b89-6b0d7959a083",
+    "pokemonId": 133,
+    "rarity": "R"
+  },
+  {
+    "name": "vaporeon",
+    "url": "https://pokeapi.co/api/v2/pokemon/134/",
+    "id": "fc54a714-31b0-43ab-8da8-1eaf221e9e14",
+    "pokemonId": 134,
+    "rarity": "SSR"
+  },
+  {
+    "name": "jolteon",
+    "url": "https://pokeapi.co/api/v2/pokemon/135/",
+    "id": "f95b21fb-5478-4212-a3c0-02e7d1c14982",
+    "pokemonId": 135,
+    "rarity": "SSR"
+  },
+  {
+    "name": "flareon",
+    "url": "https://pokeapi.co/api/v2/pokemon/136/",
+    "id": "015c9800-1901-4477-88b9-7ba4e1945ba3",
+    "pokemonId": 136,
+    "rarity": "SSR"
+  },
+  {
+    "name": "porygon",
+    "url": "https://pokeapi.co/api/v2/pokemon/137/",
+    "id": "e80722b6-c197-4ee8-bf7d-9c9248de5f81",
+    "pokemonId": 137,
+    "rarity": "SSR"
+  },
+  {
+    "name": "omanyte",
+    "url": "https://pokeapi.co/api/v2/pokemon/138/",
+    "id": "dbe21f2b-fca9-45c0-bad9-3a7dd3d98acb",
+    "pokemonId": 138,
+    "rarity": "R"
+  },
+  {
+    "name": "omastar",
+    "url": "https://pokeapi.co/api/v2/pokemon/139/",
+    "id": "0861ba7a-2eae-4c43-b9c6-8a7042c44347",
+    "pokemonId": 139,
+    "rarity": "SSR"
+  },
+  {
+    "name": "kabuto",
+    "url": "https://pokeapi.co/api/v2/pokemon/140/",
+    "id": "7dd6c369-2a69-4528-9abb-316e71835564",
+    "pokemonId": 140,
+    "rarity": "R"
+  },
+  {
+    "name": "kabutops",
+    "url": "https://pokeapi.co/api/v2/pokemon/141/",
+    "id": "17d4d295-92d4-4cdd-bcf6-7cad0e1fde9e",
+    "pokemonId": 141,
+    "rarity": "SSR"
+  },
+  {
+    "name": "aerodactyl",
+    "url": "https://pokeapi.co/api/v2/pokemon/142/",
+    "id": "72cb307b-3e0e-4de9-8aeb-c560c69a9c93",
+    "pokemonId": 142,
+    "rarity": "SSR"
+  },
+  {
+    "name": "snorlax",
+    "url": "https://pokeapi.co/api/v2/pokemon/143/",
+    "id": "8d24f377-fff4-49ee-836d-bc2217a8a32a",
+    "pokemonId": 143,
+    "rarity": "SSR"
+  },
+  {
+    "name": "articuno",
+    "url": "https://pokeapi.co/api/v2/pokemon/144/",
+    "id": "154fd364-2a17-45a8-b379-d80483a259ab",
+    "pokemonId": 144,
+    "rarity": "UR"
+  },
+  {
+    "name": "zapdos",
+    "url": "https://pokeapi.co/api/v2/pokemon/145/",
+    "id": "b1b5e9f3-eec3-4903-adf5-5d7e6ec6c173",
+    "pokemonId": 145,
+    "rarity": "UR"
+  },
+  {
+    "name": "moltres",
+    "url": "https://pokeapi.co/api/v2/pokemon/146/",
+    "id": "409a3f58-6a85-46a8-ba5a-3b12f1c9ffe4",
+    "pokemonId": 146,
+    "rarity": "UR"
+  },
+  {
+    "name": "dratini",
+    "url": "https://pokeapi.co/api/v2/pokemon/147/",
+    "id": "f6a9e6f4-67f9-47e3-81c3-035f68fa31a1",
+    "pokemonId": 147,
+    "rarity": "R"
+  },
+  {
+    "name": "dragonair",
+    "url": "https://pokeapi.co/api/v2/pokemon/148/",
+    "id": "5d5bae8c-2299-4cff-93b6-74370b99ccaa",
+    "pokemonId": 148,
+    "rarity": "SSR"
+  },
+  {
+    "name": "dragonite",
+    "url": "https://pokeapi.co/api/v2/pokemon/149/",
+    "id": "18bc89c0-fd7e-4d7e-be3e-c07f593eeedb",
+    "pokemonId": 149,
+    "rarity": "SSR"
+  },
+  {
+    "name": "mewtwo",
+    "url": "https://pokeapi.co/api/v2/pokemon/150/",
+    "id": "3030aa17-34bf-4ca6-8bbb-ad004cef16b6",
+    "pokemonId": 150,
+    "rarity": "UR"
+  },
+  {
+    "name": "mew",
+    "url": "https://pokeapi.co/api/v2/pokemon/151/",
+    "id": "174d7fd0-395f-4939-900c-4eea02e1ce60",
+    "pokemonId": 151,
+    "rarity": "UR"
+  },
+  {
+    "name": "chikorita",
+    "url": "https://pokeapi.co/api/v2/pokemon/152/",
+    "id": "f9d3e25d-a26f-4a8b-9d2a-c50ea92da87b",
+    "pokemonId": 152,
+    "rarity": "R"
+  },
+  {
+    "name": "bayleef",
+    "url": "https://pokeapi.co/api/v2/pokemon/153/",
+    "id": "00b228ab-2a5f-445c-a71b-b5f04adb1051",
+    "pokemonId": 153,
+    "rarity": "SR"
+  },
+  {
+    "name": "meganium",
+    "url": "https://pokeapi.co/api/v2/pokemon/154/",
+    "id": "e9821eae-f76d-4d2c-aa0b-05454455c187",
+    "pokemonId": 154,
+    "rarity": "SSR"
+  },
+  {
+    "name": "cyndaquil",
+    "url": "https://pokeapi.co/api/v2/pokemon/155/",
+    "id": "d33953ad-f51b-4d19-8397-3686789788c5",
+    "pokemonId": 155,
+    "rarity": "R"
+  },
+  {
+    "name": "quilava",
+    "url": "https://pokeapi.co/api/v2/pokemon/156/",
+    "id": "131d8578-3797-47ef-bc8a-0b9749747eba",
+    "pokemonId": 156,
+    "rarity": "SR"
+  },
+  {
+    "name": "typhlosion",
+    "url": "https://pokeapi.co/api/v2/pokemon/157/",
+    "id": "5f418ca0-2f51-4576-87e0-1b15d0a22f17",
+    "pokemonId": 157,
+    "rarity": "SSR"
+  },
+  {
+    "name": "totodile",
+    "url": "https://pokeapi.co/api/v2/pokemon/158/",
+    "id": "a1ea5b5d-fcf0-4823-b9ec-2dfd181a0cf0",
+    "pokemonId": 158,
+    "rarity": "R"
+  },
+  {
+    "name": "croconaw",
+    "url": "https://pokeapi.co/api/v2/pokemon/159/",
+    "id": "5d7b5af6-4006-4bf8-bad0-1dc06b954226",
+    "pokemonId": 159,
+    "rarity": "SR"
+  },
+  {
+    "name": "feraligatr",
+    "url": "https://pokeapi.co/api/v2/pokemon/160/",
+    "id": "baa22023-d658-46b4-a84d-4744d5be7952",
+    "pokemonId": 160,
+    "rarity": "SSR"
+  },
+  {
+    "name": "sentret",
+    "url": "https://pokeapi.co/api/v2/pokemon/161/",
+    "id": "c5e0ea66-1d52-49e6-8b45-c9d2d58cb053",
+    "pokemonId": 161,
+    "rarity": "R"
+  },
+  {
+    "name": "furret",
+    "url": "https://pokeapi.co/api/v2/pokemon/162/",
+    "id": "2ff58e97-08af-4b5c-9073-0b63b3cc73bb",
+    "pokemonId": 162,
+    "rarity": "SR"
+  },
+  {
+    "name": "hoothoot",
+    "url": "https://pokeapi.co/api/v2/pokemon/163/",
+    "id": "dd88473f-ec65-46f4-9a8b-1c1264336996",
+    "pokemonId": 163,
+    "rarity": "R"
+  },
+  {
+    "name": "noctowl",
+    "url": "https://pokeapi.co/api/v2/pokemon/164/",
+    "id": "8ffe5f52-7c9f-4f69-88a9-6c9ffc718e45",
+    "pokemonId": 164,
+    "rarity": "SR"
+  },
+  {
+    "name": "ledyba",
+    "url": "https://pokeapi.co/api/v2/pokemon/165/",
+    "id": "65bf192d-4478-41df-a234-723edf6e14e8",
+    "pokemonId": 165,
+    "rarity": "R"
+  },
+  {
+    "name": "ledian",
+    "url": "https://pokeapi.co/api/v2/pokemon/166/",
+    "id": "7c7d89c9-5ae6-41f6-a6c3-ac2c4aa2eeaf",
+    "pokemonId": 166,
+    "rarity": "SR"
+  },
+  {
+    "name": "spinarak",
+    "url": "https://pokeapi.co/api/v2/pokemon/167/",
+    "id": "0c4e5583-b695-4e72-8f9e-2bddf66d119a",
+    "pokemonId": 167,
+    "rarity": "R"
+  },
+  {
+    "name": "ariados",
+    "url": "https://pokeapi.co/api/v2/pokemon/168/",
+    "id": "be9a2e02-b868-4c7a-afe4-b4ae3e50c30f",
+    "pokemonId": 168,
+    "rarity": "SR"
+  },
+  {
+    "name": "crobat",
+    "url": "https://pokeapi.co/api/v2/pokemon/169/",
+    "id": "56ae5c3d-0764-44b2-9ab2-30d7036e6d1b",
+    "pokemonId": 169,
+    "rarity": "SSR"
+  },
+  {
+    "name": "chinchou",
+    "url": "https://pokeapi.co/api/v2/pokemon/170/",
+    "id": "472415fd-c88c-4cab-b21b-4a8b55462a2a",
+    "pokemonId": 170,
+    "rarity": "R"
+  },
+  {
+    "name": "lanturn",
+    "url": "https://pokeapi.co/api/v2/pokemon/171/",
+    "id": "7de8a476-8bed-44a0-b497-d7fd6798950a",
+    "pokemonId": 171,
+    "rarity": "SR"
+  },
+  {
+    "name": "pichu",
+    "url": "https://pokeapi.co/api/v2/pokemon/172/",
+    "id": "9ac7703a-aba1-47e3-acc4-dfb6beb67d2e",
+    "pokemonId": 172,
+    "rarity": "R"
+  },
+  {
+    "name": "cleffa",
+    "url": "https://pokeapi.co/api/v2/pokemon/173/",
+    "id": "ba79f788-fabd-4546-82b0-562e9b5bfd08",
+    "pokemonId": 173,
+    "rarity": "R"
+  },
+  {
+    "name": "igglybuff",
+    "url": "https://pokeapi.co/api/v2/pokemon/174/",
+    "id": "0f257caf-8ac8-4fbd-9413-7b82f9099cec",
+    "pokemonId": 174,
+    "rarity": "R"
+  },
+  {
+    "name": "togepi",
+    "url": "https://pokeapi.co/api/v2/pokemon/175/",
+    "id": "aa5bb64f-b701-46eb-98fa-230e590219ac",
+    "pokemonId": 175,
+    "rarity": "R"
+  },
+  {
+    "name": "togetic",
+    "url": "https://pokeapi.co/api/v2/pokemon/176/",
+    "id": "9aff918f-b6e6-40ef-bb7e-1f5650addd89",
+    "pokemonId": 176,
+    "rarity": "SR"
+  },
+  {
+    "name": "natu",
+    "url": "https://pokeapi.co/api/v2/pokemon/177/",
+    "id": "c862a734-523f-45d0-aeb3-f49320846287",
+    "pokemonId": 177,
+    "rarity": "R"
+  },
+  {
+    "name": "xatu",
+    "url": "https://pokeapi.co/api/v2/pokemon/178/",
+    "id": "22f67beb-fb1c-440c-9c32-6ec486f37d23",
+    "pokemonId": 178,
+    "rarity": "SR"
+  },
+  {
+    "name": "mareep",
+    "url": "https://pokeapi.co/api/v2/pokemon/179/",
+    "id": "ba5949ce-711f-4a76-8669-a3bdef9396b2",
+    "pokemonId": 179,
+    "rarity": "R"
+  },
+  {
+    "name": "flaaffy",
+    "url": "https://pokeapi.co/api/v2/pokemon/180/",
+    "id": "c51dbb80-177a-4c6a-beae-2d51b60b572b",
+    "pokemonId": 180,
+    "rarity": "SR"
+  },
+  {
+    "name": "ampharos",
+    "url": "https://pokeapi.co/api/v2/pokemon/181/",
+    "id": "46f7b078-8b43-422d-8841-e5db65286396",
+    "pokemonId": 181,
+    "rarity": "SSR"
+  },
+  {
+    "name": "bellossom",
+    "url": "https://pokeapi.co/api/v2/pokemon/182/",
+    "id": "54099db6-951d-4db7-9b33-a861751a37ad",
+    "pokemonId": 182,
+    "rarity": "SSR"
+  },
+  {
+    "name": "marill",
+    "url": "https://pokeapi.co/api/v2/pokemon/183/",
+    "id": "243ccc46-493c-4fe7-bd8a-630d9c1992f4",
+    "pokemonId": 183,
+    "rarity": "R"
+  },
+  {
+    "name": "azumarill",
+    "url": "https://pokeapi.co/api/v2/pokemon/184/",
+    "id": "4c102bbc-4338-4da5-8711-4ed7b69586d8",
+    "pokemonId": 184,
+    "rarity": "SR"
+  },
+  {
+    "name": "sudowoodo",
+    "url": "https://pokeapi.co/api/v2/pokemon/185/",
+    "id": "cae19823-f721-48d0-8ee3-84c1d605294a",
+    "pokemonId": 185,
+    "rarity": "SR"
+  },
+  {
+    "name": "politoed",
+    "url": "https://pokeapi.co/api/v2/pokemon/186/",
+    "id": "a6e356a2-6028-4af4-8d92-add77877f8f1",
+    "pokemonId": 186,
+    "rarity": "SSR"
+  },
+  {
+    "name": "hoppip",
+    "url": "https://pokeapi.co/api/v2/pokemon/187/",
+    "id": "be4ad963-33e7-489d-8160-9843fc2e5f3e",
+    "pokemonId": 187,
+    "rarity": "R"
+  },
+  {
+    "name": "skiploom",
+    "url": "https://pokeapi.co/api/v2/pokemon/188/",
+    "id": "f1031cc1-71b4-4a13-9929-cf55f1ef869e",
+    "pokemonId": 188,
+    "rarity": "R"
+  },
+  {
+    "name": "jumpluff",
+    "url": "https://pokeapi.co/api/v2/pokemon/189/",
+    "id": "81010e24-474c-417d-834f-bb74c4e8c6f8",
+    "pokemonId": 189,
+    "rarity": "SSR"
+  },
+  {
+    "name": "aipom",
+    "url": "https://pokeapi.co/api/v2/pokemon/190/",
+    "id": "1892e4c1-fae8-4850-831e-4fc519fdecf4",
+    "pokemonId": 190,
+    "rarity": "R"
+  },
+  {
+    "name": "sunkern",
+    "url": "https://pokeapi.co/api/v2/pokemon/191/",
+    "id": "df84c437-3924-4310-9b55-2ea5702a83ed",
+    "pokemonId": 191,
+    "rarity": "R"
+  },
+  {
+    "name": "sunflora",
+    "url": "https://pokeapi.co/api/v2/pokemon/192/",
+    "id": "0e7ead46-836e-44b6-9ea2-b83b8474456e",
+    "pokemonId": 192,
+    "rarity": "SR"
+  },
+  {
+    "name": "yanma",
+    "url": "https://pokeapi.co/api/v2/pokemon/193/",
+    "id": "e581cc39-8437-4482-ba73-ff06adb90350",
+    "pokemonId": 193,
+    "rarity": "SR"
+  },
+  {
+    "name": "wooper",
+    "url": "https://pokeapi.co/api/v2/pokemon/194/",
+    "id": "0ba1fe0f-1ce5-479e-a43b-a78aaad55445",
+    "pokemonId": 194,
+    "rarity": "R"
+  },
+  {
+    "name": "quagsire",
+    "url": "https://pokeapi.co/api/v2/pokemon/195/",
+    "id": "4a53e148-3c6a-4b34-bc09-e748c884720c",
+    "pokemonId": 195,
+    "rarity": "SR"
+  },
+  {
+    "name": "espeon",
+    "url": "https://pokeapi.co/api/v2/pokemon/196/",
+    "id": "2031442a-833b-4957-a8e0-d933810e7cfb",
+    "pokemonId": 196,
+    "rarity": "SSR"
+  },
+  {
+    "name": "umbreon",
+    "url": "https://pokeapi.co/api/v2/pokemon/197/",
+    "id": "245f1d5f-73fe-41c8-82e0-5c81d479cea3",
+    "pokemonId": 197,
+    "rarity": "SSR"
+  },
+  {
+    "name": "murkrow",
+    "url": "https://pokeapi.co/api/v2/pokemon/198/",
+    "id": "98d35e10-2f6c-45fd-87e3-6be3537338ca",
+    "pokemonId": 198,
+    "rarity": "SR"
+  },
+  {
+    "name": "slowking",
+    "url": "https://pokeapi.co/api/v2/pokemon/199/",
+    "id": "153e811d-8453-4c82-ae8e-325b515ec54a",
+    "pokemonId": 199,
+    "rarity": "SR"
+  },
+  {
+    "name": "misdreavus",
+    "url": "https://pokeapi.co/api/v2/pokemon/200/",
+    "id": "82652548-1c1b-4988-8310-e9b9945f0ad7",
+    "pokemonId": 200,
+    "rarity": "SR"
+  },
+  {
+    "name": "unown",
+    "url": "https://pokeapi.co/api/v2/pokemon/201/",
+    "id": "2caf92f8-6cd9-4b7a-a8db-6738d618bef8",
+    "pokemonId": 201,
+    "rarity": "SR"
+  },
+  {
+    "name": "wobbuffet",
+    "url": "https://pokeapi.co/api/v2/pokemon/202/",
+    "id": "1d786799-d356-4fb0-bc1a-adf142b5e6e1",
+    "pokemonId": 202,
+    "rarity": "SR"
+  },
+  {
+    "name": "girafarig",
+    "url": "https://pokeapi.co/api/v2/pokemon/203/",
+    "id": "f3923c4e-71f7-4caa-93b3-beed1bc6b8bb",
+    "pokemonId": 203,
+    "rarity": "SR"
+  },
+  {
+    "name": "pineco",
+    "url": "https://pokeapi.co/api/v2/pokemon/204/",
+    "id": "d42e7f94-d8b3-4aee-a732-8d7ca52b1d97",
+    "pokemonId": 204,
+    "rarity": "SR"
+  },
+  {
+    "name": "forretress",
+    "url": "https://pokeapi.co/api/v2/pokemon/205/",
+    "id": "0d762975-bbd8-4d26-86b4-f2fbe67a923b",
+    "pokemonId": 205,
+    "rarity": "SR"
+  },
+  {
+    "name": "dunsparce",
+    "url": "https://pokeapi.co/api/v2/pokemon/206/",
+    "id": "2b4d84db-8bcd-4e1a-a258-6612a24d9f98",
+    "pokemonId": 206,
+    "rarity": "SR"
+  },
+  {
+    "name": "gligar",
+    "url": "https://pokeapi.co/api/v2/pokemon/207/",
+    "id": "696dd366-212c-4382-924d-4b13ea9dee16",
+    "pokemonId": 207,
+    "rarity": "SR"
+  },
+  {
+    "name": "steelix",
+    "url": "https://pokeapi.co/api/v2/pokemon/208/",
+    "id": "422de953-e801-487d-ab66-49af20f8b3a7",
+    "pokemonId": 208,
+    "rarity": "SSR"
+  },
+  {
+    "name": "snubbull",
+    "url": "https://pokeapi.co/api/v2/pokemon/209/",
+    "id": "e8a2f1d1-7a80-43b7-95d6-e6380b27d1b1",
+    "pokemonId": 209,
+    "rarity": "R"
+  },
+  {
+    "name": "granbull",
+    "url": "https://pokeapi.co/api/v2/pokemon/210/",
+    "id": "abbd4007-06a4-484b-a5f6-526f22d12720",
+    "pokemonId": 210,
+    "rarity": "SR"
+  },
+  {
+    "name": "qwilfish",
+    "url": "https://pokeapi.co/api/v2/pokemon/211/",
+    "id": "95bcbd8b-d619-4990-80e6-8bd01f058b3b",
+    "pokemonId": 211,
+    "rarity": "SR"
+  },
+  {
+    "name": "scizor",
+    "url": "https://pokeapi.co/api/v2/pokemon/212/",
+    "id": "6f6bfa9f-3192-44ee-8923-b81e135ffb6e",
+    "pokemonId": 212,
+    "rarity": "SSR"
+  },
+  {
+    "name": "shuckle",
+    "url": "https://pokeapi.co/api/v2/pokemon/213/",
+    "id": "b5ad06a5-8e18-4d71-b460-2393e2b05322",
+    "pokemonId": 213,
+    "rarity": "R"
+  },
+  {
+    "name": "heracross",
+    "url": "https://pokeapi.co/api/v2/pokemon/214/",
+    "id": "6eb736e4-9ab4-4e72-ac38-e375501bac1a",
+    "pokemonId": 214,
+    "rarity": "SR"
+  },
+  {
+    "name": "sneasel",
+    "url": "https://pokeapi.co/api/v2/pokemon/215/",
+    "id": "46bb2a45-4982-4cae-8343-06b6c2721b6c",
+    "pokemonId": 215,
+    "rarity": "SR"
+  },
+  {
+    "name": "teddiursa",
+    "url": "https://pokeapi.co/api/v2/pokemon/216/",
+    "id": "4cdcc6b8-e8ce-4195-b60e-4963b9ca848e",
+    "pokemonId": 216,
+    "rarity": "R"
+  },
+  {
+    "name": "ursaring",
+    "url": "https://pokeapi.co/api/v2/pokemon/217/",
+    "id": "edb8b4e2-44db-4a47-b0ae-89d56455362f",
+    "pokemonId": 217,
+    "rarity": "SSR"
+  },
+  {
+    "name": "slugma",
+    "url": "https://pokeapi.co/api/v2/pokemon/218/",
+    "id": "1decbffe-a48b-4ab5-9e0a-d9c1d97d98c2",
+    "pokemonId": 218,
+    "rarity": "R"
+  },
+  {
+    "name": "magcargo",
+    "url": "https://pokeapi.co/api/v2/pokemon/219/",
+    "id": "d1bb23ec-1b83-4376-ac89-723a455a2068",
+    "pokemonId": 219,
+    "rarity": "SR"
+  },
+  {
+    "name": "swinub",
+    "url": "https://pokeapi.co/api/v2/pokemon/220/",
+    "id": "ac84a869-09f1-4717-8c4c-c2ff10100dfe",
+    "pokemonId": 220,
+    "rarity": "R"
+  },
+  {
+    "name": "piloswine",
+    "url": "https://pokeapi.co/api/v2/pokemon/221/",
+    "id": "52b17962-716c-4164-a15b-8b02428be6e7",
+    "pokemonId": 221,
+    "rarity": "SR"
+  },
+  {
+    "name": "corsola",
+    "url": "https://pokeapi.co/api/v2/pokemon/222/",
+    "id": "59432db2-84a4-4449-8baa-0908ba5a0538",
+    "pokemonId": 222,
+    "rarity": "R"
+  },
+  {
+    "name": "remoraid",
+    "url": "https://pokeapi.co/api/v2/pokemon/223/",
+    "id": "2d25e681-98c6-40d9-82c7-6468426271e8",
+    "pokemonId": 223,
+    "rarity": "R"
+  },
+  {
+    "name": "octillery",
+    "url": "https://pokeapi.co/api/v2/pokemon/224/",
+    "id": "ea0a1925-2298-4e75-9401-6c3a6d72d7ed",
+    "pokemonId": 224,
+    "rarity": "SR"
+  },
+  {
+    "name": "delibird",
+    "url": "https://pokeapi.co/api/v2/pokemon/225/",
+    "id": "d3b4c71e-33a4-4edc-94c7-ec31506ee6c2",
+    "pokemonId": 225,
+    "rarity": "SR"
+  },
+  {
+    "name": "mantine",
+    "url": "https://pokeapi.co/api/v2/pokemon/226/",
+    "id": "c74046c4-fe24-445a-8fc4-fc8dd6146ef8",
+    "pokemonId": 226,
+    "rarity": "SR"
+  },
+  {
+    "name": "skarmory",
+    "url": "https://pokeapi.co/api/v2/pokemon/227/",
+    "id": "d5584c29-c2fa-4b31-8730-3fdccde711ea",
+    "pokemonId": 227,
+    "rarity": "R"
+  },
+  {
+    "name": "houndour",
+    "url": "https://pokeapi.co/api/v2/pokemon/228/",
+    "id": "3897f66c-2030-4f49-88e1-d212446892e7",
+    "pokemonId": 228,
+    "rarity": "R"
+  },
+  {
+    "name": "houndoom",
+    "url": "https://pokeapi.co/api/v2/pokemon/229/",
+    "id": "e56571a6-f01e-4e25-a0c7-69f59e36628f",
+    "pokemonId": 229,
+    "rarity": "SR"
+  },
+  {
+    "name": "kingdra",
+    "url": "https://pokeapi.co/api/v2/pokemon/230/",
+    "id": "8df8fdf8-3cc0-4639-94b6-80840a47582b",
+    "pokemonId": 230,
+    "rarity": "SSR"
+  },
+  {
+    "name": "phanpy",
+    "url": "https://pokeapi.co/api/v2/pokemon/231/",
+    "id": "368dbeb0-c9f7-472c-b771-57f900b23c64",
+    "pokemonId": 231,
+    "rarity": "R"
+  },
+  {
+    "name": "donphan",
+    "url": "https://pokeapi.co/api/v2/pokemon/232/",
+    "id": "74149df8-38ca-440a-94ca-3366498d6c49",
+    "pokemonId": 232,
+    "rarity": "SR"
+  },
+  {
+    "name": "porygon2",
+    "url": "https://pokeapi.co/api/v2/pokemon/233/",
+    "id": "5dcef63f-71da-4c1f-a9cf-5ce6794c633c",
+    "pokemonId": 233,
+    "rarity": "SR"
+  },
+  {
+    "name": "stantler",
+    "url": "https://pokeapi.co/api/v2/pokemon/234/",
+    "id": "d8c2d8e1-5a0f-4da2-b997-bd96fdb15a8c",
+    "pokemonId": 234,
+    "rarity": "R"
+  },
+  {
+    "name": "smeargle",
+    "url": "https://pokeapi.co/api/v2/pokemon/235/",
+    "id": "8846edec-088f-4e38-8b57-12899fe35ecf",
+    "pokemonId": 235,
+    "rarity": "SR"
+  },
+  {
+    "name": "tyrogue",
+    "url": "https://pokeapi.co/api/v2/pokemon/236/",
+    "id": "a2605bf3-e4bb-42f8-8cfe-aed295138b91",
+    "pokemonId": 236,
+    "rarity": "R"
+  },
+  {
+    "name": "hitmontop",
+    "url": "https://pokeapi.co/api/v2/pokemon/237/",
+    "id": "40ad6ea0-e57a-44a2-9040-e61dba844ce3",
+    "pokemonId": 237,
+    "rarity": "SR"
+  },
+  {
+    "name": "smoochum",
+    "url": "https://pokeapi.co/api/v2/pokemon/238/",
+    "id": "e3394315-addf-4ecf-8899-77ff61a62344",
+    "pokemonId": 238,
+    "rarity": "R"
+  },
+  {
+    "name": "elekid",
+    "url": "https://pokeapi.co/api/v2/pokemon/239/",
+    "id": "0b1b6679-1069-4e83-91bd-135375976d58",
+    "pokemonId": 239,
+    "rarity": "R"
+  },
+  {
+    "name": "magby",
+    "url": "https://pokeapi.co/api/v2/pokemon/240/",
+    "id": "806560bf-64ca-442f-9ccc-8cf43fafaca3",
+    "pokemonId": 240,
+    "rarity": "R"
+  },
+  {
+    "name": "miltank",
+    "url": "https://pokeapi.co/api/v2/pokemon/241/",
+    "id": "5bd807b4-84aa-49c9-845e-b0b8c01bad66",
+    "pokemonId": 241,
+    "rarity": "R"
+  },
+  {
+    "name": "blissey",
+    "url": "https://pokeapi.co/api/v2/pokemon/242/",
+    "id": "234274a7-54ff-43a8-8ad6-4f1ec23fcbb2",
+    "pokemonId": 242,
+    "rarity": "SSR"
+  },
+  {
+    "name": "raikou",
+    "url": "https://pokeapi.co/api/v2/pokemon/243/",
+    "id": "668ef856-6354-4d4d-826b-25432c1d61b7",
+    "pokemonId": 243,
+    "rarity": "UR"
+  },
+  {
+    "name": "entei",
+    "url": "https://pokeapi.co/api/v2/pokemon/244/",
+    "id": "292c2a05-4897-4bf8-8e1e-0d01cb0d0789",
+    "pokemonId": 244,
+    "rarity": "UR"
+  },
+  {
+    "name": "suicune",
+    "url": "https://pokeapi.co/api/v2/pokemon/245/",
+    "id": "6cc9926e-e7f0-4f6e-b616-3c2a498c09a1",
+    "pokemonId": 245,
+    "rarity": "UR"
+  },
+  {
+    "name": "larvitar",
+    "url": "https://pokeapi.co/api/v2/pokemon/246/",
+    "id": "ba58b4dc-6d64-4a16-8f15-09f0fb19df65",
+    "pokemonId": 246,
+    "rarity": "R"
+  },
+  {
+    "name": "pupitar",
+    "url": "https://pokeapi.co/api/v2/pokemon/247/",
+    "id": "b3217993-22fc-4bc4-9b51-7e86bc8a79c5",
+    "pokemonId": 247,
+    "rarity": "SR"
+  },
+  {
+    "name": "tyranitar",
+    "url": "https://pokeapi.co/api/v2/pokemon/248/",
+    "id": "b1e8142e-f23d-4e77-be7d-bbf28d834467",
+    "pokemonId": 248,
+    "rarity": "SSR"
+  },
+  {
+    "name": "lugia",
+    "url": "https://pokeapi.co/api/v2/pokemon/249/",
+    "id": "adef4fa4-bfee-4c79-9d37-2b37655a896d",
+    "pokemonId": 249,
+    "rarity": "UR"
+  },
+  {
+    "name": "ho-oh",
+    "url": "https://pokeapi.co/api/v2/pokemon/250/",
+    "id": "40571b47-5281-43f2-a0d1-83ac02918503",
+    "pokemonId": 250,
+    "rarity": "UR"
+  },
+  {
+    "name": "celebi",
+    "url": "https://pokeapi.co/api/v2/pokemon/251/",
+    "id": "705f65d3-e406-48b5-8084-47f02e531ba1",
+    "pokemonId": 251,
+    "rarity": "UR"
+  },
+  {
+    "name": "treecko",
+    "url": "https://pokeapi.co/api/v2/pokemon/252/",
+    "id": "888d9ccc-306c-414e-b279-c71be16d7a77",
+    "pokemonId": 252,
+    "rarity": "R"
+  },
+  {
+    "name": "grovyle",
+    "url": "https://pokeapi.co/api/v2/pokemon/253/",
+    "id": "c77a7790-6638-4461-aaa9-27dce86a3ff4",
+    "pokemonId": 253,
+    "rarity": "SR"
+  },
+  {
+    "name": "sceptile",
+    "url": "https://pokeapi.co/api/v2/pokemon/254/",
+    "id": "d8ca9452-36d1-499f-b365-88a5febc3529",
+    "pokemonId": 254,
+    "rarity": "SSR"
+  },
+  {
+    "name": "torchic",
+    "url": "https://pokeapi.co/api/v2/pokemon/255/",
+    "id": "89c7ad1b-96b7-4990-b851-eac03c78e94c",
+    "pokemonId": 255,
+    "rarity": "R"
+  },
+  {
+    "name": "combusken",
+    "url": "https://pokeapi.co/api/v2/pokemon/256/",
+    "id": "75a50721-9f00-4294-989a-d490694d3df2",
+    "pokemonId": 256,
+    "rarity": "SR"
+  },
+  {
+    "name": "blaziken",
+    "url": "https://pokeapi.co/api/v2/pokemon/257/",
+    "id": "3f51ba0e-fc66-468f-83fb-d501b0888879",
+    "pokemonId": 257,
+    "rarity": "SSR"
+  },
+  {
+    "name": "mudkip",
+    "url": "https://pokeapi.co/api/v2/pokemon/258/",
+    "id": "f99a13ea-0658-4b24-937d-80700b075537",
+    "pokemonId": 258,
+    "rarity": "R"
+  },
+  {
+    "name": "marshtomp",
+    "url": "https://pokeapi.co/api/v2/pokemon/259/",
+    "id": "703c6964-116c-49e3-87f5-6a5213347894",
+    "pokemonId": 259,
+    "rarity": "SR"
+  },
+  {
+    "name": "swampert",
+    "url": "https://pokeapi.co/api/v2/pokemon/260/",
+    "id": "9062e7bc-1f26-4127-bb69-3766ca799185",
+    "pokemonId": 260,
+    "rarity": "SSR"
+  },
+  {
+    "name": "poochyena",
+    "url": "https://pokeapi.co/api/v2/pokemon/261/",
+    "id": "59a0ec93-830b-4828-80b9-e2aeaabbc192",
+    "pokemonId": 261,
+    "rarity": "R"
+  },
+  {
+    "name": "mightyena",
+    "url": "https://pokeapi.co/api/v2/pokemon/262/",
+    "id": "0bd31a6b-072b-41fb-b01e-d48449f11514",
+    "pokemonId": 262,
+    "rarity": "SR"
+  },
+  {
+    "name": "zigzagoon",
+    "url": "https://pokeapi.co/api/v2/pokemon/263/",
+    "id": "c5a20237-c849-4a78-8ce2-ecc7ceb43089",
+    "pokemonId": 263,
+    "rarity": "R"
+  },
+  {
+    "name": "linoone",
+    "url": "https://pokeapi.co/api/v2/pokemon/264/",
+    "id": "6a8056d3-5e2b-478c-99fc-e08f9fcd2ffc",
+    "pokemonId": 264,
+    "rarity": "SR"
+  },
+  {
+    "name": "wurmple",
+    "url": "https://pokeapi.co/api/v2/pokemon/265/",
+    "id": "717a99b8-163f-4032-8ac2-eca450cb874c",
+    "pokemonId": 265,
+    "rarity": "R"
+  },
+  {
+    "name": "silcoon",
+    "url": "https://pokeapi.co/api/v2/pokemon/266/",
+    "id": "5a9c00f7-d417-4065-a506-384527113a93",
+    "pokemonId": 266,
+    "rarity": "SR"
+  },
+  {
+    "name": "beautifly",
+    "url": "https://pokeapi.co/api/v2/pokemon/267/",
+    "id": "2aee391e-f7a8-4ca8-b330-028bc2bc8c04",
+    "pokemonId": 267,
+    "rarity": "SSR"
+  },
+  {
+    "name": "cascoon",
+    "url": "https://pokeapi.co/api/v2/pokemon/268/",
+    "id": "a3c22877-7c89-4aa3-aeea-14534cbd98cc",
+    "pokemonId": 268,
+    "rarity": "SR"
+  },
+  {
+    "name": "dustox",
+    "url": "https://pokeapi.co/api/v2/pokemon/269/",
+    "id": "8a9d93a9-5bf6-4077-8c20-e9941e2801e6",
+    "pokemonId": 269,
+    "rarity": "SSR"
+  },
+  {
+    "name": "lotad",
+    "url": "https://pokeapi.co/api/v2/pokemon/270/",
+    "id": "8b0222db-17f8-439c-ac84-e48e82085d05",
+    "pokemonId": 270,
+    "rarity": "R"
+  },
+  {
+    "name": "lombre",
+    "url": "https://pokeapi.co/api/v2/pokemon/271/",
+    "id": "ebd5c4e1-78af-4438-a79f-58f1cadceb58",
+    "pokemonId": 271,
+    "rarity": "SR"
+  },
+  {
+    "name": "ludicolo",
+    "url": "https://pokeapi.co/api/v2/pokemon/272/",
+    "id": "a91fef89-4674-4f22-b549-ab4bcb80702b",
+    "pokemonId": 272,
+    "rarity": "SSR"
+  },
+  {
+    "name": "seedot",
+    "url": "https://pokeapi.co/api/v2/pokemon/273/",
+    "id": "0bb962c4-df5d-4111-923f-09171e44116a",
+    "pokemonId": 273,
+    "rarity": "R"
+  },
+  {
+    "name": "nuzleaf",
+    "url": "https://pokeapi.co/api/v2/pokemon/274/",
+    "id": "3841eeb6-5492-4507-892f-bc1883639ba5",
+    "pokemonId": 274,
+    "rarity": "SR"
+  },
+  {
+    "name": "shiftry",
+    "url": "https://pokeapi.co/api/v2/pokemon/275/",
+    "id": "8a8e8e7d-145c-4ad6-9fcf-808a3acaa690",
+    "pokemonId": 275,
+    "rarity": "SSR"
+  },
+  {
+    "name": "taillow",
+    "url": "https://pokeapi.co/api/v2/pokemon/276/",
+    "id": "edc436a8-6edb-498d-93fa-97bd71638595",
+    "pokemonId": 276,
+    "rarity": "R"
+  },
+  {
+    "name": "swellow",
+    "url": "https://pokeapi.co/api/v2/pokemon/277/",
+    "id": "16def12a-24f6-441c-9d13-2d9ae9612941",
+    "pokemonId": 277,
+    "rarity": "SR"
+  },
+  {
+    "name": "wingull",
+    "url": "https://pokeapi.co/api/v2/pokemon/278/",
+    "id": "eb63ac0d-ac4e-41e3-86ce-624aed70c032",
+    "pokemonId": 278,
+    "rarity": "R"
+  },
+  {
+    "name": "pelipper",
+    "url": "https://pokeapi.co/api/v2/pokemon/279/",
+    "id": "07aa7b1e-f078-4c0c-8fb7-dcd58c48aa46",
+    "pokemonId": 279,
+    "rarity": "SR"
+  },
+  {
+    "name": "ralts",
+    "url": "https://pokeapi.co/api/v2/pokemon/280/",
+    "id": "704fda76-2d1b-4167-955e-48eafae77642",
+    "pokemonId": 280,
+    "rarity": "R"
+  },
+  {
+    "name": "kirlia",
+    "url": "https://pokeapi.co/api/v2/pokemon/281/",
+    "id": "8ee5d7a9-7fdc-4108-bfc8-7689949752ba",
+    "pokemonId": 281,
+    "rarity": "SR"
+  },
+  {
+    "name": "gardevoir",
+    "url": "https://pokeapi.co/api/v2/pokemon/282/",
+    "id": "8a9dc721-953b-44ce-8b9f-3b77be4828c0",
+    "pokemonId": 282,
+    "rarity": "SSR"
+  },
+  {
+    "name": "surskit",
+    "url": "https://pokeapi.co/api/v2/pokemon/283/",
+    "id": "4b935920-9951-4010-a55f-c4bc2009f8f5",
+    "pokemonId": 283,
+    "rarity": "R"
+  },
+  {
+    "name": "masquerain",
+    "url": "https://pokeapi.co/api/v2/pokemon/284/",
+    "id": "62a4a2b0-8eee-4adf-ad3a-04cd38554756",
+    "pokemonId": 284,
+    "rarity": "SR"
+  },
+  {
+    "name": "shroomish",
+    "url": "https://pokeapi.co/api/v2/pokemon/285/",
+    "id": "91629ced-d9db-4c9f-be0d-eaa24e5e082c",
+    "pokemonId": 285,
+    "rarity": "R"
+  },
+  {
+    "name": "breloom",
+    "url": "https://pokeapi.co/api/v2/pokemon/286/",
+    "id": "fb47f3f2-7a73-4ed4-8597-b6f5f7ba90a0",
+    "pokemonId": 286,
+    "rarity": "SR"
+  },
+  {
+    "name": "slakoth",
+    "url": "https://pokeapi.co/api/v2/pokemon/287/",
+    "id": "8b16b916-d1e1-4cfd-964c-918be2225f2e",
+    "pokemonId": 287,
+    "rarity": "R"
+  },
+  {
+    "name": "vigoroth",
+    "url": "https://pokeapi.co/api/v2/pokemon/288/",
+    "id": "51c63c4b-72c8-4317-9c17-e83f8d01a1c2",
+    "pokemonId": 288,
+    "rarity": "SR"
+  },
+  {
+    "name": "slaking",
+    "url": "https://pokeapi.co/api/v2/pokemon/289/",
+    "id": "81c23cfb-f90c-4c03-b280-71d30700dcb2",
+    "pokemonId": 289,
+    "rarity": "SSR"
+  },
+  {
+    "name": "nincada",
+    "url": "https://pokeapi.co/api/v2/pokemon/290/",
+    "id": "5fc5aa86-ce93-476a-905c-141a2f10a38b",
+    "pokemonId": 290,
+    "rarity": "R"
+  },
+  {
+    "name": "ninjask",
+    "url": "https://pokeapi.co/api/v2/pokemon/291/",
+    "id": "6a3400f3-9238-4c6a-9a20-203667fc824f",
+    "pokemonId": 291,
+    "rarity": "SR"
+  },
+  {
+    "name": "shedinja",
+    "url": "https://pokeapi.co/api/v2/pokemon/292/",
+    "id": "3f5915b4-b55b-4279-8a58-3e000a4b3c23",
+    "pokemonId": 292,
+    "rarity": "SR"
+  },
+  {
+    "name": "whismur",
+    "url": "https://pokeapi.co/api/v2/pokemon/293/",
+    "id": "fcccec6f-7485-45e8-a89f-7bdc61293321",
+    "pokemonId": 293,
+    "rarity": "R"
+  },
+  {
+    "name": "loudred",
+    "url": "https://pokeapi.co/api/v2/pokemon/294/",
+    "id": "514bd85f-5ab9-4f90-915e-e7afff72c7d3",
+    "pokemonId": 294,
+    "rarity": "SR"
+  },
+  {
+    "name": "exploud",
+    "url": "https://pokeapi.co/api/v2/pokemon/295/",
+    "id": "4fbc856c-487f-49ff-8d16-ebe3511bd0db",
+    "pokemonId": 295,
+    "rarity": "SSR"
+  },
+  {
+    "name": "makuhita",
+    "url": "https://pokeapi.co/api/v2/pokemon/296/",
+    "id": "45d13a65-8851-4141-ac17-01dcbd9edd8c",
+    "pokemonId": 296,
+    "rarity": "R"
+  },
+  {
+    "name": "hariyama",
+    "url": "https://pokeapi.co/api/v2/pokemon/297/",
+    "id": "3065233d-9f3d-453c-8e35-f5e0b45eb2c1",
+    "pokemonId": 297,
+    "rarity": "SR"
+  },
+  {
+    "name": "azurill",
+    "url": "https://pokeapi.co/api/v2/pokemon/298/",
+    "id": "4ee70f50-f9a5-462e-9a50-58eb0cbef422",
+    "pokemonId": 298,
+    "rarity": "R"
+  },
+  {
+    "name": "nosepass",
+    "url": "https://pokeapi.co/api/v2/pokemon/299/",
+    "id": "44905230-6743-442e-b209-2d0bd5e6bdd1",
+    "pokemonId": 299,
+    "rarity": "R"
+  },
+  {
+    "name": "skitty",
+    "url": "https://pokeapi.co/api/v2/pokemon/300/",
+    "id": "4293ffbf-ae1f-47f8-abc5-79ee0b2d23d1",
+    "pokemonId": 300,
+    "rarity": "R"
+  },
+  {
+    "name": "delcatty",
+    "url": "https://pokeapi.co/api/v2/pokemon/301/",
+    "id": "019b6393-3836-4cf8-b85b-ed4349b6b8c3",
+    "pokemonId": 301,
+    "rarity": "SR"
+  },
+  {
+    "name": "sableye",
+    "url": "https://pokeapi.co/api/v2/pokemon/302/",
+    "id": "57ee63ec-39c1-4632-988f-7d3d24954bcd",
+    "pokemonId": 302,
+    "rarity": "SR"
+  },
+  {
+    "name": "mawile",
+    "url": "https://pokeapi.co/api/v2/pokemon/303/",
+    "id": "467fcdd6-9a16-4ec5-ab06-43b593384145",
+    "pokemonId": 303,
+    "rarity": "SR"
+  },
+  {
+    "name": "aron",
+    "url": "https://pokeapi.co/api/v2/pokemon/304/",
+    "id": "3d8065a5-3605-49c4-a94f-8950f0295a69",
+    "pokemonId": 304,
+    "rarity": "R"
+  },
+  {
+    "name": "lairon",
+    "url": "https://pokeapi.co/api/v2/pokemon/305/",
+    "id": "68054c0a-9a15-4b50-b080-d5683d231e1e",
+    "pokemonId": 305,
+    "rarity": "SR"
+  },
+  {
+    "name": "aggron",
+    "url": "https://pokeapi.co/api/v2/pokemon/306/",
+    "id": "1ef8b7bf-1501-4e70-87be-e2b4a519bd7d",
+    "pokemonId": 306,
+    "rarity": "SSR"
+  },
+  {
+    "name": "meditite",
+    "url": "https://pokeapi.co/api/v2/pokemon/307/",
+    "id": "b68fa717-0ad8-4b09-98e1-8104e05042f3",
+    "pokemonId": 307,
+    "rarity": "R"
+  },
+  {
+    "name": "medicham",
+    "url": "https://pokeapi.co/api/v2/pokemon/308/",
+    "id": "fe7cecb8-a14a-4e51-ae6e-33873ffbb4b8",
+    "pokemonId": 308,
+    "rarity": "SR"
+  },
+  {
+    "name": "electrike",
+    "url": "https://pokeapi.co/api/v2/pokemon/309/",
+    "id": "664a68f0-7fa2-4c7e-a523-bd77a60cb5eb",
+    "pokemonId": 309,
+    "rarity": "R"
+  },
+  {
+    "name": "manectric",
+    "url": "https://pokeapi.co/api/v2/pokemon/310/",
+    "id": "78188b16-cdc1-41f5-83d5-859d0d8cbed6",
+    "pokemonId": 310,
+    "rarity": "SR"
+  },
+  {
+    "name": "plusle",
+    "url": "https://pokeapi.co/api/v2/pokemon/311/",
+    "id": "b3e3afe0-c30f-43b4-b093-e289a92acf4e",
+    "pokemonId": 311,
+    "rarity": "R"
+  },
+  {
+    "name": "minun",
+    "url": "https://pokeapi.co/api/v2/pokemon/312/",
+    "id": "f2113765-faaa-4077-8940-7bac7596c4ef",
+    "pokemonId": 312,
+    "rarity": "R"
+  },
+  {
+    "name": "volbeat",
+    "url": "https://pokeapi.co/api/v2/pokemon/313/",
+    "id": "13e086e0-f080-4073-b874-6e8c70b29da6",
+    "pokemonId": 313,
+    "rarity": "R"
+  },
+  {
+    "name": "illumise",
+    "url": "https://pokeapi.co/api/v2/pokemon/314/",
+    "id": "1ecfde29-161e-427f-ba8d-7c9890a6d83e",
+    "pokemonId": 314,
+    "rarity": "R"
+  },
+  {
+    "name": "roselia",
+    "url": "https://pokeapi.co/api/v2/pokemon/315/",
+    "id": "aa04b760-d0cd-4d30-b4e2-6d68b22bcb07",
+    "pokemonId": 315,
+    "rarity": "R"
+  },
+  {
+    "name": "gulpin",
+    "url": "https://pokeapi.co/api/v2/pokemon/316/",
+    "id": "56c74e48-c60e-449c-a686-8fc3b0b79a5b",
+    "pokemonId": 316,
+    "rarity": "R"
+  },
+  {
+    "name": "swalot",
+    "url": "https://pokeapi.co/api/v2/pokemon/317/",
+    "id": "b99bc598-f4ea-464c-85fd-30fa05726de1",
+    "pokemonId": 317,
+    "rarity": "SR"
+  },
+  {
+    "name": "carvanha",
+    "url": "https://pokeapi.co/api/v2/pokemon/318/",
+    "id": "9db7bc6c-0ca2-4a49-91b4-3c9f82d7355e",
+    "pokemonId": 318,
+    "rarity": "R"
+  },
+  {
+    "name": "sharpedo",
+    "url": "https://pokeapi.co/api/v2/pokemon/319/",
+    "id": "e08ac87c-3a4e-4b6b-8977-cc29acb2746d",
+    "pokemonId": 319,
+    "rarity": "SR"
+  },
+  {
+    "name": "wailmer",
+    "url": "https://pokeapi.co/api/v2/pokemon/320/",
+    "id": "6ea5b6d4-7884-476f-b718-dc593b2d6643",
+    "pokemonId": 320,
+    "rarity": "R"
+  },
+  {
+    "name": "wailord",
+    "url": "https://pokeapi.co/api/v2/pokemon/321/",
+    "id": "4942562b-ad9c-4ca6-a4da-5311b6fd828c",
+    "pokemonId": 321,
+    "rarity": "SSR"
+  },
+  {
+    "name": "numel",
+    "url": "https://pokeapi.co/api/v2/pokemon/322/",
+    "id": "9ebb6c02-6edb-456c-bd32-ececdadb2ae2",
+    "pokemonId": 322,
+    "rarity": "R"
+  },
+  {
+    "name": "camerupt",
+    "url": "https://pokeapi.co/api/v2/pokemon/323/",
+    "id": "c29f59dc-158e-48b5-82c2-7a2c76dac88e",
+    "pokemonId": 323,
+    "rarity": "SR"
+  },
+  {
+    "name": "torkoal",
+    "url": "https://pokeapi.co/api/v2/pokemon/324/",
+    "id": "1ebfe23e-981f-4893-af83-18f32166f1b4",
+    "pokemonId": 324,
+    "rarity": "SR"
+  },
+  {
+    "name": "spoink",
+    "url": "https://pokeapi.co/api/v2/pokemon/325/",
+    "id": "4809b949-9f81-4c2f-afe3-3d58af252491",
+    "pokemonId": 325,
+    "rarity": "R"
+  },
+  {
+    "name": "grumpig",
+    "url": "https://pokeapi.co/api/v2/pokemon/326/",
+    "id": "59a12abb-3f48-4070-ab34-b13ad5c3fd7b",
+    "pokemonId": 326,
+    "rarity": "R"
+  },
+  {
+    "name": "spinda",
+    "url": "https://pokeapi.co/api/v2/pokemon/327/",
+    "id": "a3fa941d-9d23-4bc3-92d4-d27a69e57591",
+    "pokemonId": 327,
+    "rarity": "R"
+  },
+  {
+    "name": "trapinch",
+    "url": "https://pokeapi.co/api/v2/pokemon/328/",
+    "id": "e716eb9a-ffd6-42e3-86fb-a98880911367",
+    "pokemonId": 328,
+    "rarity": "R"
+  },
+  {
+    "name": "vibrava",
+    "url": "https://pokeapi.co/api/v2/pokemon/329/",
+    "id": "a2810597-bebe-4046-9eaa-8c1771644b28",
+    "pokemonId": 329,
+    "rarity": "SR"
+  },
+  {
+    "name": "flygon",
+    "url": "https://pokeapi.co/api/v2/pokemon/330/",
+    "id": "c2e86ca3-3005-47ba-8f0f-1e0df926e6a6",
+    "pokemonId": 330,
+    "rarity": "SSR"
+  },
+  {
+    "name": "cacnea",
+    "url": "https://pokeapi.co/api/v2/pokemon/331/",
+    "id": "8ed4a2a5-7bd7-4691-84d9-1630bd1233b7",
+    "pokemonId": 331,
+    "rarity": "R"
+  },
+  {
+    "name": "cacturne",
+    "url": "https://pokeapi.co/api/v2/pokemon/332/",
+    "id": "3aa841ca-3a2a-4c86-94ff-ce5b0c76d45d",
+    "pokemonId": 332,
+    "rarity": "R"
+  },
+  {
+    "name": "swablu",
+    "url": "https://pokeapi.co/api/v2/pokemon/333/",
+    "id": "e7f95411-737b-4697-a598-74fbed96ba6e",
+    "pokemonId": 333,
+    "rarity": "SR"
+  },
+  {
+    "name": "altaria",
+    "url": "https://pokeapi.co/api/v2/pokemon/334/",
+    "id": "52acce3f-564c-4432-a751-f493f5cbac67",
+    "pokemonId": 334,
+    "rarity": "SSR"
+  },
+  {
+    "name": "zangoose",
+    "url": "https://pokeapi.co/api/v2/pokemon/335/",
+    "id": "a4b29b82-9570-45be-ad17-74e2fa13d27f",
+    "pokemonId": 335,
+    "rarity": "SR"
+  },
+  {
+    "name": "seviper",
+    "url": "https://pokeapi.co/api/v2/pokemon/336/",
+    "id": "dbd79465-0d58-4091-9de6-576f72596359",
+    "pokemonId": 336,
+    "rarity": "SR"
+  },
+  {
+    "name": "lunatone",
+    "url": "https://pokeapi.co/api/v2/pokemon/337/",
+    "id": "8847e629-387c-42d5-9493-c5e965e8fb38",
+    "pokemonId": 337,
+    "rarity": "SR"
+  },
+  {
+    "name": "solrock",
+    "url": "https://pokeapi.co/api/v2/pokemon/338/",
+    "id": "831feefc-fff3-4148-9b6c-4c97359f48ab",
+    "pokemonId": 338,
+    "rarity": "SR"
+  },
+  {
+    "name": "barboach",
+    "url": "https://pokeapi.co/api/v2/pokemon/339/",
+    "id": "8bc7c37b-29ec-4293-8f71-c24ca8282859",
+    "pokemonId": 339,
+    "rarity": "R"
+  },
+  {
+    "name": "whiscash",
+    "url": "https://pokeapi.co/api/v2/pokemon/340/",
+    "id": "73c65ba5-b347-47d2-be0c-f39bc06cf141",
+    "pokemonId": 340,
+    "rarity": "SR"
+  },
+  {
+    "name": "corphish",
+    "url": "https://pokeapi.co/api/v2/pokemon/341/",
+    "id": "8670df88-de9f-4ce3-8f0f-df6fd050a6fd",
+    "pokemonId": 341,
+    "rarity": "R"
+  },
+  {
+    "name": "crawdaunt",
+    "url": "https://pokeapi.co/api/v2/pokemon/342/",
+    "id": "391b9a73-d7b1-44f2-aee5-0cb1bff9dbd8",
+    "pokemonId": 342,
+    "rarity": "SR"
+  },
+  {
+    "name": "baltoy",
+    "url": "https://pokeapi.co/api/v2/pokemon/343/",
+    "id": "c5018de7-7d5a-481f-8f4e-165fd3c9f5ac",
+    "pokemonId": 343,
+    "rarity": "R"
+  },
+  {
+    "name": "claydol",
+    "url": "https://pokeapi.co/api/v2/pokemon/344/",
+    "id": "e5bddd95-44f4-4d03-b8c6-0c0aa17b419d",
+    "pokemonId": 344,
+    "rarity": "SR"
+  },
+  {
+    "name": "lileep",
+    "url": "https://pokeapi.co/api/v2/pokemon/345/",
+    "id": "9d8591bd-49e7-40a0-a9a1-66b1fbb9d328",
+    "pokemonId": 345,
+    "rarity": "R"
+  },
+  {
+    "name": "cradily",
+    "url": "https://pokeapi.co/api/v2/pokemon/346/",
+    "id": "f09a8664-7a22-4890-9ada-238771ac53bc",
+    "pokemonId": 346,
+    "rarity": "SSR"
+  },
+  {
+    "name": "anorith",
+    "url": "https://pokeapi.co/api/v2/pokemon/347/",
+    "id": "0c27d587-b91c-4318-b391-ce4e4e2d0191",
+    "pokemonId": 347,
+    "rarity": "R"
+  },
+  {
+    "name": "armaldo",
+    "url": "https://pokeapi.co/api/v2/pokemon/348/",
+    "id": "6e2de411-4b5d-4313-8124-9ec95065e375",
+    "pokemonId": 348,
+    "rarity": "SSR"
+  },
+  {
+    "name": "feebas",
+    "url": "https://pokeapi.co/api/v2/pokemon/349/",
+    "id": "e46091f2-5765-4fa0-b92b-0355aa8face7",
+    "pokemonId": 349,
+    "rarity": "R"
+  },
+  {
+    "name": "milotic",
+    "url": "https://pokeapi.co/api/v2/pokemon/350/",
+    "id": "6f6a4c7f-fc17-42e4-bf27-bbb145672ade",
+    "pokemonId": 350,
+    "rarity": "SSR"
+  },
+  {
+    "name": "castform",
+    "url": "https://pokeapi.co/api/v2/pokemon/351/",
+    "id": "18f569a2-9587-4465-ae7e-7a6cfd6824d6",
+    "pokemonId": 351,
+    "rarity": "SR"
+  },
+  {
+    "name": "kecleon",
+    "url": "https://pokeapi.co/api/v2/pokemon/352/",
+    "id": "e354e9aa-88b8-4dda-b97d-488276e42ebe",
+    "pokemonId": 352,
+    "rarity": "SR"
+  },
+  {
+    "name": "shuppet",
+    "url": "https://pokeapi.co/api/v2/pokemon/353/",
+    "id": "e2ed7642-1e02-4e8c-a017-b77b46df5a1a",
+    "pokemonId": 353,
+    "rarity": "R"
+  },
+  {
+    "name": "banette",
+    "url": "https://pokeapi.co/api/v2/pokemon/354/",
+    "id": "230fc3c2-146d-441d-8c8d-862ed5fd46d5",
+    "pokemonId": 354,
+    "rarity": "SR"
+  },
+  {
+    "name": "duskull",
+    "url": "https://pokeapi.co/api/v2/pokemon/355/",
+    "id": "cf2245b3-31f4-4323-a624-9705425c3fc3",
+    "pokemonId": 355,
+    "rarity": "R"
+  },
+  {
+    "name": "dusclops",
+    "url": "https://pokeapi.co/api/v2/pokemon/356/",
+    "id": "cb6ec241-0ecc-4703-a1d9-6b80e84af784",
+    "pokemonId": 356,
+    "rarity": "SR"
+  },
+  {
+    "name": "tropius",
+    "url": "https://pokeapi.co/api/v2/pokemon/357/",
+    "id": "46879906-7303-49d7-8346-a25802c0d338",
+    "pokemonId": 357,
+    "rarity": "SR"
+  },
+  {
+    "name": "chimecho",
+    "url": "https://pokeapi.co/api/v2/pokemon/358/",
+    "id": "43e41a11-ad24-476e-9d9d-21f41f2ceb14",
+    "pokemonId": 358,
+    "rarity": "SR"
+  },
+  {
+    "name": "absol",
+    "url": "https://pokeapi.co/api/v2/pokemon/359/",
+    "id": "1b762173-43b6-4a34-b1f8-2834b5f1cecc",
+    "pokemonId": 359,
+    "rarity": "SR"
+  },
+  {
+    "name": "wynaut",
+    "url": "https://pokeapi.co/api/v2/pokemon/360/",
+    "id": "4ec154b2-4649-40b4-9063-aac38aff7de4",
+    "pokemonId": 360,
+    "rarity": "R"
+  },
+  {
+    "name": "snorunt",
+    "url": "https://pokeapi.co/api/v2/pokemon/361/",
+    "id": "38411b6d-effe-4218-b5a6-055568d9eede",
+    "pokemonId": 361,
+    "rarity": "R"
+  },
+  {
+    "name": "glalie",
+    "url": "https://pokeapi.co/api/v2/pokemon/362/",
+    "id": "fb3feae0-58a8-4a8c-a455-e121b102f18c",
+    "pokemonId": 362,
+    "rarity": "SR"
+  },
+  {
+    "name": "spheal",
+    "url": "https://pokeapi.co/api/v2/pokemon/363/",
+    "id": "a6a478e6-8ba8-4848-a83e-237fb99a7d7d",
+    "pokemonId": 363,
+    "rarity": "R"
+  },
+  {
+    "name": "sealeo",
+    "url": "https://pokeapi.co/api/v2/pokemon/364/",
+    "id": "279946f4-abaf-4595-9ff3-b6537e31f3e4",
+    "pokemonId": 364,
+    "rarity": "SR"
+  },
+  {
+    "name": "walrein",
+    "url": "https://pokeapi.co/api/v2/pokemon/365/",
+    "id": "1d9388e5-b04b-44c1-a335-c58c1d113432",
+    "pokemonId": 365,
+    "rarity": "SSR"
+  },
+  {
+    "name": "clamperl",
+    "url": "https://pokeapi.co/api/v2/pokemon/366/",
+    "id": "81068acb-58e6-4da9-bb21-5ad65c8eba05",
+    "pokemonId": 366,
+    "rarity": "R"
+  },
+  {
+    "name": "huntail",
+    "url": "https://pokeapi.co/api/v2/pokemon/367/",
+    "id": "3571f5bc-9c4a-4bad-a23f-7c40702acea7",
+    "pokemonId": 367,
+    "rarity": "SR"
+  },
+  {
+    "name": "gorebyss",
+    "url": "https://pokeapi.co/api/v2/pokemon/368/",
+    "id": "9d1f49e7-5bd0-4a29-b331-129427e28e2a",
+    "pokemonId": 368,
+    "rarity": "SR"
+  },
+  {
+    "name": "relicanth",
+    "url": "https://pokeapi.co/api/v2/pokemon/369/",
+    "id": "69bdc59b-ae04-4de3-909e-60a8a4a05cc4",
+    "pokemonId": 369,
+    "rarity": "R"
+  },
+  {
+    "name": "luvdisc",
+    "url": "https://pokeapi.co/api/v2/pokemon/370/",
+    "id": "39e9c42d-9f79-4182-a927-cb6bdf2a4b63",
+    "pokemonId": 370,
+    "rarity": "R"
+  },
+  {
+    "name": "bagon",
+    "url": "https://pokeapi.co/api/v2/pokemon/371/",
+    "id": "ef816c8a-70fc-4ca6-a558-63d468cb8d0b",
+    "pokemonId": 371,
+    "rarity": "R"
+  },
+  {
+    "name": "shelgon",
+    "url": "https://pokeapi.co/api/v2/pokemon/372/",
+    "id": "404b49e3-a1b8-4174-bf7b-15ebdc5b5da1",
+    "pokemonId": 372,
+    "rarity": "SR"
+  },
+  {
+    "name": "salamence",
+    "url": "https://pokeapi.co/api/v2/pokemon/373/",
+    "id": "dd57df6f-cc1c-4999-ac22-737991180376",
+    "pokemonId": 373,
+    "rarity": "SSR"
+  },
+  {
+    "name": "beldum",
+    "url": "https://pokeapi.co/api/v2/pokemon/374/",
+    "id": "b98dee28-91bc-47b0-b8ab-a70541550a3a",
+    "pokemonId": 374,
+    "rarity": "R"
+  },
+  {
+    "name": "metang",
+    "url": "https://pokeapi.co/api/v2/pokemon/375/",
+    "id": "3dbb6539-e1fd-4cce-9bee-311da866bb2d",
+    "pokemonId": 375,
+    "rarity": "SR"
+  },
+  {
+    "name": "metagross",
+    "url": "https://pokeapi.co/api/v2/pokemon/376/",
+    "id": "a450a91c-9112-4b01-b5f3-119bfaa82e00",
+    "pokemonId": 376,
+    "rarity": "SSR"
+  },
+  {
+    "name": "regirock",
+    "url": "https://pokeapi.co/api/v2/pokemon/377/",
+    "id": "90fe8cb8-3d16-4323-b5e0-925b9c33fca5",
+    "pokemonId": 377,
+    "rarity": "UR"
+  },
+  {
+    "name": "regice",
+    "url": "https://pokeapi.co/api/v2/pokemon/378/",
+    "id": "bccca9e7-249e-42bf-88fe-6087da86619a",
+    "pokemonId": 378,
+    "rarity": "UR"
+  },
+  {
+    "name": "registeel",
+    "url": "https://pokeapi.co/api/v2/pokemon/379/",
+    "id": "64978260-faee-412e-90c8-b3af519aa5ef",
+    "pokemonId": 379,
+    "rarity": "UR"
+  },
+  {
+    "name": "latias",
+    "url": "https://pokeapi.co/api/v2/pokemon/380/",
+    "id": "58993d45-12df-4db9-8805-41b3be5a789b",
+    "pokemonId": 380,
+    "rarity": "UR"
+  },
+  {
+    "name": "latios",
+    "url": "https://pokeapi.co/api/v2/pokemon/381/",
+    "id": "b1a7056d-23dc-4697-8853-35c9ee204e03",
+    "pokemonId": 381,
+    "rarity": "UR"
+  },
+  {
+    "name": "kyogre",
+    "url": "https://pokeapi.co/api/v2/pokemon/382/",
+    "id": "7f44189f-8fe6-4e1a-bdd4-109f7e454cc1",
+    "pokemonId": 382,
+    "rarity": "UR"
+  },
+  {
+    "name": "groudon",
+    "url": "https://pokeapi.co/api/v2/pokemon/383/",
+    "id": "8bda9612-dfec-41d8-af08-b139761a3131",
+    "pokemonId": 383,
+    "rarity": "UR"
+  },
+  {
+    "name": "rayquaza",
+    "url": "https://pokeapi.co/api/v2/pokemon/384/",
+    "id": "96aa04a1-06aa-452c-bbac-2c0b2e252330",
+    "pokemonId": 384,
+    "rarity": "UR"
+  },
+  {
+    "name": "jirachi",
+    "url": "https://pokeapi.co/api/v2/pokemon/385/",
+    "id": "85bf3a1c-b69e-431a-9d40-67fda9bb8b73",
+    "pokemonId": 385,
+    "rarity": "UR"
+  }
+]
