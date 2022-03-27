@@ -24,10 +24,10 @@ const allPokemons = _.groupBy(
 
 // Gacha Rates
 const GACHA_RATES = {
-  UR: 0.02, // 2* = 2%
-  SSR: 0.08, // 8* = 8%
-  SR: 0.2, // 20* = 50%
-  R: 0.7, // 70* = 40%
+  UR: 0.01, // 1%
+  SSR: 0.09, // 9%
+  SR: 0.2, // 20%
+  R: 1, // 70%
 };
 
 const rollPokemon = (rarity) => {
