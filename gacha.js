@@ -24,7 +24,7 @@ const allPokemons = _.groupBy(
 
 // Gacha Rates
 const GACHA_RATES = {
-  UR: 0.005, // 0.5%
+  UR: 0.5, // 0.5%
   SSR: 0.0375, // 3.75%
   SR: 0.1575, // 15.75%
   R: 0.8, // 80%
