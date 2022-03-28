@@ -24,10 +24,10 @@ const allPokemons = _.groupBy(
 
 // Gacha Rates
 const GACHA_RATES = {
-  UR: 0.015, // 1.5%
+  UR: 0.005, // 0.5%
   SSR: 0.0375, // 3.75%
   SR: 0.1575, // 15.75%
-  R: 0.79, // 79%
+  R: 0.8, // 80%
 };
 
 const rollPokemon = (rarity) => {
@@ -47,7 +47,6 @@ const determineRarity = (roll) => {
       result = rarity;
     }
   });
-
   return result;
 };
 
@@ -58,7 +57,7 @@ const rollGacha = (times, gen) => {
   pokemons = getGen(gen);
 
   for (let i = 0; i < times; i++) {
-    const roll = getRoll(0, 1, 5);
+    const roll = getRoll(0.0001, 1, 4);
     const unitRarity = determineRarity(roll);
     const unit = determineUnit(unitRarity);
     unit.isShow = false;
