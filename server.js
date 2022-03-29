@@ -78,6 +78,6 @@ function randomizePokemons(totalPokemons) {
   return randomPokemons;
 }
 
-app.listen(process.env.PORT || 3000, () =>
+app.listen(process.env.PORT || 4000, () =>
   console.log("Poke Server is running...")
 );
