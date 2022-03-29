@@ -47,7 +47,6 @@ const determineRarity = (roll) => {
       result = rarity;
     }
   });
-
   return result;
 };
 
@@ -58,7 +57,7 @@ const rollGacha = (times, gen) => {
   pokemons = getGen(gen);
 
   for (let i = 0; i < times; i++) {
-    const roll = getRoll(0, 1, 5);
+    const roll = getRoll(0.0001, 1, 4);
     const unitRarity = determineRarity(roll);
     const unit = determineUnit(unitRarity);
     unit.isShow = false;
