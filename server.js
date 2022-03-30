@@ -8,9 +8,10 @@ const cors = require("cors");
 const rollGacha = require("./gacha");
 const pokemonApiUrl = process.env.POKEMON_API_URL;
 const totalPokemons = process.env.TOTAL_POKEMONS || 151; // Gen-1 151, Gen-2 152-251, Gen-3 252-386
+const staticOptions = {};
 
 app.use(express.json());
-app.use("/static", express.static("assets"));
+app.use("/static", express.static("assets", { maxAge: 3600000 }));
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 if (process.env.NODE_ENV === "development") {
