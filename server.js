@@ -27,22 +27,22 @@ app.get("/api/healthcheck", (req, res) => {
 });
 
 app.get("/api/all-pokemons-gen1", async (req, res) => {
-  const gachaResults = rollGacha(10, "GEN-1");
+  const gachaResults = rollGacha(6, "GEN-1");
   res.send(gachaResults);
 });
 
 app.get("/api/all-pokemons-gen2", async (req, res) => {
-  const gachaResults = rollGacha(10, "GEN-2");
+  const gachaResults = rollGacha(6, "GEN-2");
   res.send(gachaResults);
 });
 
 app.get("/api/all-pokemons-gen3", async (req, res) => {
-  const gachaResults = rollGacha(10, "GEN-3");
+  const gachaResults = rollGacha(6, "GEN-3");
   res.send(gachaResults);
 });
 
 app.get("/api/catchem-all-multi", async (req, res) => {
-  const gachaResults = rollGacha(10, "ALL");
+  const gachaResults = rollGacha(6, "ALL");
   res.send(gachaResults);
 });
 

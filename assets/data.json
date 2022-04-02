@@ -2693,5 +2693,320 @@
     "id": "85bf3a1c-b69e-431a-9d40-67fda9bb8b73",
     "pokemonId": 385,
     "rarity": "UR"
+  },
+  {
+    "name": "shiny-aerodactyl",
+    "url": "",
+    "id": "shiny_1",
+    "pokemonId": 9954,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-aggron",
+    "url": "",
+    "id": "shiny_2",
+    "pokemonId": 9955,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-armaldo",
+    "url": "",
+    "id": "shiny_3",
+    "pokemonId": 9956,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-articuno",
+    "url": "",
+    "id": "shiny_4",
+    "pokemonId": 9957,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-blastoise",
+    "url": "",
+    "id": "shiny_5",
+    "pokemonId": 9958,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-blaziken",
+    "url": "",
+    "id": "shiny_6",
+    "pokemonId": 9959,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-celebi",
+    "url": "",
+    "id": "shiny_7",
+    "pokemonId": 9960,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-charizard",
+    "url": "",
+    "id": "shiny_8",
+    "pokemonId": 9961,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-cradily",
+    "url": "",
+    "id": "shiny_9",
+    "pokemonId": 9962,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-deoxys",
+    "url": "",
+    "id": "shiny_10",
+    "pokemonId": 9963,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-dragonite",
+    "url": "",
+    "id": "shiny_11",
+    "pokemonId": 9964,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-entei",
+    "url": "",
+    "id": "shiny_12",
+    "pokemonId": 9965,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-espeon",
+    "url": "",
+    "id": "shiny_13",
+    "pokemonId": 9966,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-feraligatr",
+    "url": "",
+    "id": "shiny_14",
+    "pokemonId": 9967,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-flygon",
+    "url": "",
+    "id": "shiny_15",
+    "pokemonId": 9968,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-groudon",
+    "url": "",
+    "id": "shiny_16",
+    "pokemonId": 9969,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-gyarados",
+    "url": "",
+    "id": "shiny_17",
+    "pokemonId": 9970,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-hooh",
+    "url": "",
+    "id": "shiny_18",
+    "pokemonId": 9971,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-jirachi",
+    "url": "",
+    "id": "shiny_19",
+    "pokemonId": 9972,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-kyogre",
+    "url": "",
+    "id": "shiny_20",
+    "pokemonId": 9973,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-latias",
+    "url": "",
+    "id": "shiny_21",
+    "pokemonId": 9974,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-latios",
+    "url": "",
+    "id": "shiny_22",
+    "pokemonId": 9975,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-lugia",
+    "url": "",
+    "id": "shiny_23",
+    "pokemonId": 9976,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-meganium",
+    "url": "",
+    "id": "shiny_24",
+    "pokemonId": 9977,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-metagross",
+    "url": "",
+    "id": "shiny_25",
+    "pokemonId": 9978,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-moltres",
+    "url": "",
+    "id": "shiny_26",
+    "pokemonId": 9979,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-nidoking",
+    "url": "",
+    "id": "shiny_27",
+    "pokemonId": 9980,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-raikou",
+    "url": "",
+    "id": "shiny_28",
+    "pokemonId": 9981,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-rapidash",
+    "url": "",
+    "id": "shiny_29",
+    "pokemonId": 9982,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-rayquaza",
+    "url": "",
+    "id": "shiny_30",
+    "pokemonId": 9983,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-regice",
+    "url": "",
+    "id": "shiny_31",
+    "pokemonId": 9984,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-regirock",
+    "url": "",
+    "id": "shiny_32",
+    "pokemonId": 9985,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-registeel",
+    "url": "",
+    "id": "shiny_33",
+    "pokemonId": 9986,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-salamence",
+    "url": "",
+    "id": "shiny_34",
+    "pokemonId": 9987,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-sceptile",
+    "url": "",
+    "id": "shiny_35",
+    "pokemonId": 9988,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-scizor",
+    "url": "",
+    "id": "shiny_36",
+    "pokemonId": 9989,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-steelix",
+    "url": "",
+    "id": "shiny_37",
+    "pokemonId": 9990,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-suicune",
+    "url": "",
+    "id": "shiny_38",
+    "pokemonId": 9991,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-swampert",
+    "url": "",
+    "id": "shiny_39",
+    "pokemonId": 9992,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-typhlosion",
+    "url": "",
+    "id": "shiny_40",
+    "pokemonId": 9993,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-tyranitar",
+    "url": "",
+    "id": "shiny_41",
+    "pokemonId": 9994,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-umbreon",
+    "url": "",
+    "id": "shiny_42",
+    "pokemonId": 9995,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-venusaur",
+    "url": "",
+    "id": "shiny_43",
+    "pokemonId": 9996,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-wailord",
+    "url": "",
+    "id": "shiny_44",
+    "pokemonId": 9997,
+    "rarity": "SP"
+  },
+  {
+    "name": "shiny-zapdoz",
+    "url": "",
+    "id": "shiny_45",
+    "pokemonId": 9998,
+    "rarity": "SP"
   }
 ]
