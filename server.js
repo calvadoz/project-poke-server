@@ -19,7 +19,7 @@ if (process.env.NODE_ENV === "development") {
 }
 
 app.get("/", (req, res) => {
-  res.send("Nothing here");
+  res.send("Nothing here, please go to other endpoint");
 });
 
 app.get("/api/healthcheck", (req, res) => {
