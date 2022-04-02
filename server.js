@@ -50,6 +50,14 @@ app.get("/api/catchem-all-single", async (req, res) => {
   res.send(rollGacha(1));
 });
 
+app.get("/api/get-version", async (req, res) => {
+  res.send(
+    process.env.HEROKU_RELEASE_VERSION
+      ? process.env.HEROKU_RELEASE_VERSION
+      : "development"
+  );
+});
+
 // app.get("/api/catchem-all-test", async (req, res) => {
 //   const api_url = pokemonApiUrl + "?limit=385";
 //   const pokemons = await axios.get(api_url);
